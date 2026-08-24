@@ -1,1 +1,17 @@
-{"runAt":null,"days":7,"fetchedUnique":0,"totalStored":0,"errors":[],"source":"https://pcc-api.openfun.app/"}
+{
+  "runAt": "2026-08-24T02:23:19.933140+00:00",
+  "days": 7,
+  "fetchedUnique": 9557,
+  "totalStored": 9557,
+  "errors": [
+    {
+      "date": "20260823",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "date": "20260822",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    }
+  ],
+  "source": "https://pcc-api.openfun.app/"
+}
