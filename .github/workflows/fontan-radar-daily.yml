@@ -1,5 +1,9 @@
 name: FONTAN Daily Tender Radar
 on:
+  push:
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/fontan-radar-daily.yml'
   schedule:
     - cron: '0 1 * * *'
   workflow_dispatch:
