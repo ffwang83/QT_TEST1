@@ -1,0 +1,8 @@
+<!-- 將本檔內容放進 Tastique 的 Elementor「HTML」元件即可。不要用 iframe。資料會直接讀取 GitHub 真實資料庫。 -->
+<div id="fontan-radar-app"></div>
+<script>
+(function(){
+const root=document.getElementById('fontan-radar-app');
+root.innerHTML='<iframe style="width:100%;height:1100px;border:0" srcdoc="'+encodeURIComponent('<!doctype html><html><body><h2 style=\'font-family:Arial;padding:30px\'>FONTAN Government Tender Radar</h2><p style=\'font-family:Arial;padding:0 30px\'>若你看到這段，表示目前 WordPress/Elementor 禁止 script 或 iframe srcdoc。請改用 Elementor HTML 元件，或啟用允許自訂 JavaScript。</p></body></html>')+'"></iframe>';
+})();
+</script>
