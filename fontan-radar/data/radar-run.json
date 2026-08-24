@@ -1,5 +1,5 @@
 {
-  "runAt": "2026-08-24T02:24:26.318352+00:00",
+  "runAt": "2026-08-24T02:49:40.341952+00:00",
   "days": 7,
   "fetchedUnique": 9557,
   "totalStored": 9557,
@@ -13,5 +13,6 @@
       "error": "Expecting value: line 1 column 1 (char 0)"
     }
   ],
-  "source": "https://pcc-api.openfun.app/"
+  "source": "https://pcc-api.openfun.app/",
+  "urlPolicy": "officialUrl uses the canonical PCC detail URL returned by OpenFun; API-internal /index/case paths fall back to the official PCC procurement search entry."
 }
