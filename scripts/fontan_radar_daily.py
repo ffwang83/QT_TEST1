@@ -9,6 +9,9 @@ POS=['政策宣導','政策溝通','整合行銷','品牌','品牌形象','行�
 NEG=['道路','橋梁','土木','營造','清潔','保全','設備採購','機電','空調','消防','工程','車輛','物資採購','純印刷']
 TYPE_KEYS={'政策溝通':['政策','宣導','公共關係','公關','議題','形象'],'產業推廣':['產業','招商','企業','創新','創業','品牌推廣'],'活動策展':['論壇','活動','展覽','策展','峰會','研討會'],'媒體內容':['媒體','新聞','社群','影音','影片','內容','採訪'],'地方創生':['地方創生','觀光','旅遊','地方品牌','社區','文化']}
 
+PCC_HOST='https://web.pcc.gov.tw'
+PCC_FALLBACK='https://web.pcc.gov.tw/pis/main/pis/client/index.do'
+
 def get_json(url,retries=3):
     last=None
     for attempt in range(retries):
@@ -41,9 +44,30 @@ def parse_money(x):
     m=re.search(r'([0-9,.]+)',str(x).replace(',',''))
     return float(m.group(1)) if m else 0
 
+def normalize_url(url):
+    """Return a usable official PCC URL only when the source gives a real URL.
+    OpenFun's /index/case/... path is an API-internal path and must NOT be
+    presented as a PCC URL. When no canonical detail URL is available we use
+    the official procurement search entry instead of inventing a detail URL.
+    """
+    if not url:
+        return PCC_FALLBACK
+    url=str(url).strip()
+    if url.startswith('https://web.pcc.gov.tw/') or url.startswith('http://web.pcc.gov.tw/'):
+        return url
+    if url.startswith('/'):
+        # /index/case/... belongs to OpenFun, not the public PCC detail page.
+        if url.startswith('/index/case/'):
+            return PCC_FALLBACK
+        return PCC_HOST + url
+    if url.startswith('http://') or url.startswith('https://'):
+        return url
+    return PCC_FALLBACK
+
 def normalize(r,day):
     brief=r.get('brief') or {};detail=r.get('detail') or {};title=brief.get('title') or r.get('title') or '';agency=r.get('unit_name') or r.get('agency') or '';no=r.get('job_number') or r.get('procurement_no') or '';raw=' '.join(str(v) for v in detail.values());text=' '.join([title,agency,raw,brief.get('type','')]);budget=parse_money(detail.get('預算金額') or detail.get('預算') or detail.get('採購金額') or r.get('budget'));fit=text_score(text,budget);neg=[k for k in NEG if k in text];pos=[k for k in POS if k in text];decision='排除' if len(neg)>=2 or fit<50 else ('保留' if fit>=80 else '研究');rid=hashlib.sha256(f'{no}|{agency}|{title}'.encode()).hexdigest()[:20]
-    return {'id':rid,'procNo':no,'title':title,'agency':agency,'budget':budget,'posted':day,'deadline':detail.get('截止投標時間') or detail.get('截止日期') or '','type':classify(text),'fit':fit,'decision':decision,'positiveSignals':pos[:10],'negativeSignals':neg[:10],'source':'PCC-derived OpenFun API','sourceUrl':detail.get('url') or r.get('url') or 'https://web.pcc.gov.tw/','raw':r}
+    canonical=normalize_url(detail.get('url') or r.get('url'))
+    return {'id':rid,'procNo':no,'title':title,'agency':agency,'budget':budget,'posted':day,'deadline':detail.get('截止投標時間') or detail.get('截止日期') or '','type':classify(text),'fit':fit,'decision':decision,'positiveSignals':pos[:10],'negativeSignals':neg[:10],'source':'PCC-derived OpenFun API','officialUrl':canonical,'sourceUrl':canonical,'raw':r}
 
 def main():
     os.makedirs(os.path.dirname(OUT),exist_ok=True);old=[]
@@ -61,7 +85,7 @@ def main():
         except Exception as e:errors.append({'date':d,'error':str(e)})
     rows=list(byid.values());rows.sort(key=lambda x:(-x.get('fit',0),x.get('posted','')))
     with open(OUT,'w',encoding='utf-8') as f:json.dump(rows,f,ensure_ascii=False,indent=2)
-    run={'runAt':datetime.now().astimezone().isoformat(),'days':7,'fetchedUnique':len(set(fetched)),'totalStored':len(rows),'errors':errors,'source':'https://pcc-api.openfun.app/'}
+    run={'runAt':datetime.now().astimezone().isoformat(),'days':7,'fetchedUnique':len(set(fetched)),'totalStored':len(rows),'errors':errors,'source':'https://pcc-api.openfun.app/','urlPolicy':'officialUrl uses the canonical PCC detail URL returned by OpenFun; API-internal /index/case paths fall back to the official PCC procurement search entry.'}
     with open(RUN,'w',encoding='utf-8') as f:json.dump(run,f,ensure_ascii=False,indent=2)
     print(json.dumps(run,ensure_ascii=False))
 
