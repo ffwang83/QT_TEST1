@@ -1,8 +1,8 @@
 {
-  "runAt": "2026-09-06T05:19:52.184680+00:00",
+  "runAt": "2026-09-07T05:28:28.671689+00:00",
   "days": 7,
-  "fetchedUnique": 9705,
-  "totalStored": 22369,
+  "fetchedUnique": 10900,
+  "totalStored": 24694,
   "errors": [
     {
       "date": "20260906",
