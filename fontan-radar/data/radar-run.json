@@ -1,19 +1,19 @@
 {
-  "runAt": "2026-10-09T07:00:13.591183+00:00",
+  "runAt": "2026-10-10T06:33:17.189799+00:00",
   "days": 7,
   "fetchedUnique": 8837,
   "totalStored": 48094,
   "errors": [
+    {
+      "date": "20261010",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
     {
       "date": "20261009",
       "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "date": "20261004",
-      "error": "Expecting value: line 1 column 1 (char 0)"
-    },
-    {
-      "date": "20261003",
       "error": "Expecting value: line 1 column 1 (char 0)"
     }
   ],
