@@ -151926,11 +151926,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128399",
+      "filename": "NAI-1-71298872",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "115-117年新竹供油中心設備保養維修工作",
-        "category": "勞務類886-附帶於金屬產品、機械及設備維修之服務",
         "companies": {
           "ids": [],
           "names": [],
@@ -151944,7 +151943,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.13.50.41.11",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.13.50.41.11&job_number=DDE1542001",
       "unit_url": "/index/unit/3.13.50.41.11",
-      "url": "/index/case/3.13.50.41.11/DDE1542001/20261006/TIQ-1-71128399"
+      "url": "/index/case/3.13.50.41.11/DDE1542001/20261006/NAI-1-71298872"
     }
   },
   {
@@ -152091,11 +152090,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-3-71128611",
+      "filename": "NAI-1-71299015",
       "brief": {
-        "type": "經公開評選或公開徵求之限制性招標公告",
+        "type": "無法決標公告",
         "title": "115-116年鳳山黃埔新村假日悠遊藝文採購勞務案",
-        "category": "勞務類96-娛樂,文化,體育服務",
         "companies": {
           "ids": [],
           "names": [],
@@ -152109,7 +152107,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.97.33",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.97.33&job_number=115207",
       "unit_url": "/index/unit/3.97.33",
-      "url": "/index/case/3.97.33/115207/20261006/TIQ-3-71128611"
+      "url": "/index/case/3.97.33/115207/20261006/NAI-1-71299015"
     }
   },
   {
@@ -1373563,11 +1373561,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128662",
+      "filename": "NAI-1-71299056",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "林園石化廠新三輕組等工場大修吊車作業",
-        "category": "勞務類71-陸地運輸服務",
         "companies": {
           "ids": [],
           "names": [],
@@ -1373581,7 +1373578,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.13.50",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.13.50&job_number=UGE158D001",
       "unit_url": "/index/unit/3.13.50",
-      "url": "/index/case/3.13.50/UGE158D001/20261006/TIQ-1-71128662"
+      "url": "/index/case/3.13.50/UGE158D001/20261006/NAI-1-71299056"
     }
   },
   {
@@ -1374421,11 +1374418,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128159",
+      "filename": "NAI-1-71298642",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "116年資安設備及雲端郵件系統授權更新維護",
-        "category": "財物類452-計算機及其零件與配件",
         "companies": {
           "ids": [],
           "names": [],
@@ -1374439,7 +1374435,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.19.1",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.19.1&job_number=11591NT",
       "unit_url": "/index/unit/A.19.1",
-      "url": "/index/case/A.19.1/11591NT/20261006/TIQ-1-71128159"
+      "url": "/index/case/A.19.1/11591NT/20261006/NAI-1-71298642"
     }
   },
   {
@@ -1374956,10 +1374952,11 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "NAI-1-71298389",
+      "filename": "TIQ-11-71127904",
       "brief": {
-        "type": "無法決標公告",
+        "type": "公開取得報價單或企劃書公告",
         "title": "115學年度晚餐伙食採購",
+        "category": "勞務類642-提供食物服務",
         "companies": {
           "ids": [],
           "names": [],
@@ -1374973,7 +1374970,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.92.6.12",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.92.6.12&job_number=NYSS-11506002",
       "unit_url": "/index/unit/3.92.6.12",
-      "url": "/index/case/3.92.6.12/NYSS-11506002/20261006/NAI-1-71298389"
+      "url": "/index/case/3.92.6.12/NYSS-11506002/20261006/TIQ-11-71127904"
     }
   },
   {
@@ -1376992,11 +1376989,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128144",
+      "filename": "NAI-1-71298669",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "116年雅潭工區零星接戶線(附帶低壓線)工作",
-        "category": "勞務類97-其他服務",
         "companies": {
           "ids": [],
           "names": [],
@@ -1377010,7 +1377006,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.13.31.10",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.13.31.10&job_number=1051570035",
       "unit_url": "/index/unit/3.13.31.10",
-      "url": "/index/case/3.13.31.10/1051570035/20261006/TIQ-1-71128144"
+      "url": "/index/case/3.13.31.10/1051570035/20261006/NAI-1-71298669"
     }
   },
   {
@@ -1377842,11 +1377838,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71127991",
+      "filename": "NAI-1-71298481",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "116-118年藥品疫苗冷藏冰箱（櫃）保養維護案",
-        "category": "勞務類886-附帶於金屬產品、機械及設備維修之服務",
         "companies": {
           "ids": [],
           "names": [],
@@ -1377860,7 +1377855,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.79.14.14",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.79.14.14&job_number=R115109",
       "unit_url": "/index/unit/3.79.14.14",
-      "url": "/index/case/3.79.14.14/R115109/20261006/TIQ-1-71127991"
+      "url": "/index/case/3.79.14.14/R115109/20261006/NAI-1-71298481"
     }
   },
   {
@@ -1377881,11 +1377876,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128020",
+      "filename": "NAI-1-71298518",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "生鮮蔬菜及菇類等(115)",
-        "category": "財物類21-肉類,魚,果實,蔬菜,及油脂",
         "companies": {
           "ids": [],
           "names": [],
@@ -1377899,7 +1377893,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.79.14.14",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.79.14.14&job_number=F115016A",
       "unit_url": "/index/unit/3.79.14.14",
-      "url": "/index/case/3.79.14.14/F115016A/20261006/TIQ-1-71128020"
+      "url": "/index/case/3.79.14.14/F115016A/20261006/NAI-1-71298518"
     }
   },
   {
@@ -1377971,11 +1377965,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128439",
+      "filename": "NAI-1-71298881",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "新世代資料湖泊儲存系統維護案",
-        "category": "勞務類886-附帶於金屬產品、機械及設備維修之服務",
         "companies": {
           "ids": [],
           "names": [],
@@ -1377989,7 +1377982,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.9.26.3",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.9.26.3&job_number=Y11555C",
       "unit_url": "/index/unit/3.9.26.3",
-      "url": "/index/case/3.9.26.3/Y11555C/20261006/TIQ-1-71128439"
+      "url": "/index/case/3.9.26.3/Y11555C/20261006/NAI-1-71298881"
     }
   },
   {
@@ -1378010,11 +1378003,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128057",
+      "filename": "NAI-1-71298521",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "115年度幼兒園充實及改善教學環境設施設備",
-        "category": "工程類5139-其他土木工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -1378028,7 +1378020,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.53.84",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.53.84&job_number=A115014",
       "unit_url": "/index/unit/3.76.53.84",
-      "url": "/index/case/3.76.53.84/A115014/20261006/TIQ-1-71128057"
+      "url": "/index/case/3.76.53.84/A115014/20261006/NAI-1-71298521"
     }
   },
   {
@@ -1378049,11 +1378041,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128706",
+      "filename": "NAI-1-71298734",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "屏東分院傷患暨醫療單位被服洗滌案",
-        "category": "勞務類97-其他服務",
         "companies": {
           "ids": [],
           "names": [],
@@ -1378067,7 +1378058,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.5.11",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.5.11&job_number=NN16002P001",
       "unit_url": "/index/unit/3.5.11",
-      "url": "/index/case/3.5.11/NN16002P001/20261006/TIQ-1-71128706"
+      "url": "/index/case/3.5.11/NN16002P001/20261006/NAI-1-71298734"
     }
   },
   {
@@ -1378088,11 +1378079,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128710",
+      "filename": "NAI-1-71298739",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "國軍醫院PHILIPS等2廠牌5項呼吸機保養維護",
-        "category": "勞務類886-附帶於金屬產品、機械及設備維修之服務",
         "companies": {
           "ids": [],
           "names": [],
@@ -1378106,7 +1378096,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.5.11",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.5.11&job_number=NN16005P004",
       "unit_url": "/index/unit/3.5.11",
-      "url": "/index/case/3.5.11/NN16005P004/20261006/TIQ-1-71128710"
+      "url": "/index/case/3.5.11/NN16005P004/20261006/NAI-1-71298739"
     }
   },
   {
@@ -1378127,11 +1378117,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128382",
+      "filename": "NAI-1-71298773",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "「115年電子交易伺服器汰換暨備份系統」採購案",
-        "category": "財物類452-計算機及其零件與配件",
         "companies": {
           "ids": [],
           "names": [],
@@ -1378145,7 +1378134,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.7.25.1",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.7.25.1&job_number=1040-115-B037",
       "unit_url": "/index/unit/3.7.25.1",
-      "url": "/index/case/3.7.25.1/1040-115-B037/20261006/TIQ-1-71128382"
+      "url": "/index/case/3.7.25.1/1040-115-B037/20261006/NAI-1-71298773"
     }
   },
   {
@@ -1378715,11 +1378704,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128709",
+      "filename": "NAI-1-71298800",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "115年印表機租賃(開口契約)",
-        "category": "財物類452-計算機及其零件與配件",
         "companies": {
           "ids": [],
           "names": [],
@@ -1378733,7 +1378721,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.97.14.4",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.97.14.4&job_number=KSPH1152037",
       "unit_url": "/index/unit/3.97.14.4",
-      "url": "/index/case/3.97.14.4/KSPH1152037/20261006/TIQ-1-71128709"
+      "url": "/index/case/3.97.14.4/KSPH1152037/20261006/NAI-1-71298800"
     }
   },
   {
@@ -1379292,11 +1379280,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71127988",
+      "filename": "NAI-1-71298456",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "醫療儀器維修耗材",
-        "category": "財物類481-醫療,外科及矯形設備",
         "companies": {
           "ids": [],
           "names": [],
@@ -1379310,7 +1379297,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.9.26.3",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.9.26.3&job_number=W11553",
       "unit_url": "/index/unit/3.9.26.3",
-      "url": "/index/case/3.9.26.3/W11553/20261006/TIQ-1-71127988"
+      "url": "/index/case/3.9.26.3/W11553/20261006/NAI-1-71298456"
     }
   },
   {
@@ -1379331,11 +1379318,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128168",
+      "filename": "NAI-1-71298696",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "115年林三機吹灰器、燃燒器及空氣預熱器大修工作",
-        "category": "勞務類886-附帶於金屬產品、機械及設備維修之服務",
         "companies": {
           "ids": [],
           "names": [],
@@ -1379349,7 +1379335,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.13.31.43",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.13.31.43&job_number=3201500128",
       "unit_url": "/index/unit/3.13.31.43",
-      "url": "/index/case/3.13.31.43/3201500128/20261006/TIQ-1-71128168"
+      "url": "/index/case/3.13.31.43/3201500128/20261006/NAI-1-71298696"
     }
   },
   {
@@ -1379409,11 +1379395,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128036",
+      "filename": "NAI-1-71298552",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "採購2027馬祖縣民專用酒5項包材",
-        "category": "財物類31-木製品,軟木製品,草及編結材料產品",
         "companies": {
           "ids": [],
           "names": [],
@@ -1379427,7 +1379412,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.71.5.44",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.71.5.44&job_number=1150000032",
       "unit_url": "/index/unit/3.71.5.44",
-      "url": "/index/case/3.71.5.44/1150000032/20261006/TIQ-1-71128036"
+      "url": "/index/case/3.71.5.44/1150000032/20261006/NAI-1-71298552"
     }
   },
   {
@@ -1380031,11 +1380016,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128225",
+      "filename": "NAI-1-71298611",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "可潛航快速環境偵測智慧載台",
-        "category": "財物類482-做為測量、檢查、航行及其他目的用之儀器和裝置，除光學儀器;工業程序控制設備;上述各項之零件及附件",
         "companies": {
           "ids": [],
           "names": [],
@@ -1380049,7 +1380033,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.47.3",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.47.3&job_number=NAMR115110",
       "unit_url": "/index/unit/A.47.3",
-      "url": "/index/case/A.47.3/NAMR115110/20261006/TIQ-1-71128225"
+      "url": "/index/case/A.47.3/NAMR115110/20261006/NAI-1-71298611"
     }
   },
   {
@@ -1380178,11 +1380162,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-3-71128083",
+      "filename": "NAI-1-71298495",
       "brief": {
-        "type": "經公開評選或公開徵求之限制性招標公告",
+        "type": "無法決標公告",
         "title": "115年花蓮縣原住民族聲音採集勞務採購案",
-        "category": "勞務類92-教育服務",
         "companies": {
           "ids": [],
           "names": [],
@@ -1380196,7 +1380179,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.55",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.55&job_number=AB1150002616",
       "unit_url": "/index/unit/3.76.55",
-      "url": "/index/case/3.76.55/AB1150002616/20261006/TIQ-3-71128083"
+      "url": "/index/case/3.76.55/AB1150002616/20261006/NAI-1-71298495"
     }
   },
   {
@@ -1381754,11 +1381737,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128287",
+      "filename": "NAI-1-71298599",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "115~118年中醫藥品採購及管理採購案",
-        "category": "財物類352-醫藥產品",
         "companies": {
           "ids": [],
           "names": [],
@@ -1381772,7 +1381754,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.21.100.41",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.21.100.41&job_number=C1150821",
       "unit_url": "/index/unit/A.21.100.41",
-      "url": "/index/case/A.21.100.41/C1150821/20261006/TIQ-1-71128287"
+      "url": "/index/case/A.21.100.41/C1150821/20261006/NAI-1-71298599"
     }
   },
   {
@@ -1381793,11 +1381775,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-3-71128733",
+      "filename": "NAI-1-71299025",
       "brief": {
-        "type": "經公開評選或公開徵求之限制性招標公告",
+        "type": "無法決標公告",
         "title": "116年度動物管制暨犬貓急難救援業務勞務承攬",
-        "category": "勞務類97-其他服務",
         "companies": {
           "ids": [],
           "names": [],
@@ -1381811,7 +1381792,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.97.27.1",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.97.27.1&job_number=11507",
       "unit_url": "/index/unit/3.97.27.1",
-      "url": "/index/case/3.97.27.1/11507/20261006/TIQ-3-71128733"
+      "url": "/index/case/3.97.27.1/11507/20261006/NAI-1-71299025"
     }
   },
   {
@@ -1382089,11 +1382070,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128142",
+      "filename": "NAI-1-71298663",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "115年資訊設備更新與擴充採購案",
-        "category": "財物類452-計算機及其零件與配件",
         "companies": {
           "ids": [],
           "names": [],
@@ -1382107,7 +1382087,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.10.5",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.10.5&job_number=T1153200028",
       "unit_url": "/index/unit/3.10.5",
-      "url": "/index/case/3.10.5/T1153200028/20261006/TIQ-1-71128142"
+      "url": "/index/case/3.10.5/T1153200028/20261006/NAI-1-71298663"
     }
   },
   {
@@ -1382942,11 +1382922,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128501",
+      "filename": "NAI-1-71298570",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "115年協和珠山分廠南竿#13機機械大修工作",
-        "category": "勞務類886-附帶於金屬產品、機械及設備維修之服務",
         "companies": {
           "ids": [],
           "names": [],
@@ -1382960,7 +1382939,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.13.31.41",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.13.31.41&job_number=3601500117",
       "unit_url": "/index/unit/3.13.31.41",
-      "url": "/index/case/3.13.31.41/3601500117/20261006/TIQ-1-71128501"
+      "url": "/index/case/3.13.31.41/3601500117/20261006/NAI-1-71298570"
     }
   },
   {
@@ -1383348,11 +1383327,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128329",
+      "filename": "NAI-1-71298747",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "115年度公務電動車（含充電樁）採購案",
-        "category": "財物類491-機動車,拖車,半拖車;車輛機件",
         "companies": {
           "ids": [],
           "names": [],
@@ -1383366,7 +1383344,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.67",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.67&job_number=115-39",
       "unit_url": "/index/unit/3.67",
-      "url": "/index/case/3.67/115-39/20261006/TIQ-1-71128329"
+      "url": "/index/case/3.67/115-39/20261006/NAI-1-71298747"
     }
   },
   {
@@ -1385684,11 +1385662,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-3-71128632",
+      "filename": "NAI-1-71298702",
       "brief": {
-        "type": "經公開評選或公開徵求之限制性招標公告",
+        "type": "無法決標公告",
         "title": "116-118年個人電腦及週邊設備維護案",
-        "category": "勞務類845-辦公室機器及設備(包括電腦)之維修服務",
         "companies": {
           "ids": [],
           "names": [],
@@ -1385702,7 +1385679,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.15.85",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.15.85&job_number=P1162003550",
       "unit_url": "/index/unit/3.15.85",
-      "url": "/index/case/3.15.85/P1162003550/20261006/TIQ-3-71128632"
+      "url": "/index/case/3.15.85/P1162003550/20261006/NAI-1-71298702"
     }
   },
   {
@@ -1385837,11 +1385814,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71127961",
+      "filename": "NAI-1-71298468",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "中七、十、三、四號機高壓馬達大修工作",
-        "category": "勞務類886-附帶於金屬產品、機械及設備維修之服務",
         "companies": {
           "ids": [],
           "names": [],
@@ -1385855,7 +1385831,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.13.31.45",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.13.31.45&job_number=3711500293",
       "unit_url": "/index/unit/3.13.31.45",
-      "url": "/index/case/3.13.31.45/3711500293/20261006/TIQ-1-71127961"
+      "url": "/index/case/3.13.31.45/3711500293/20261006/NAI-1-71298468"
     }
   },
   {
@@ -1385914,11 +1385890,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128561",
+      "filename": "NAI-1-71298975",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "HyRead ebook電子書一批",
-        "category": "財物類32-紙漿,紙及紙產品;印刷品及相關的商品",
         "companies": {
           "ids": [],
           "names": [],
@@ -1385932,7 +1385907,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.9.25",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.9.25&job_number=NT111509044615",
       "unit_url": "/index/unit/3.9.25",
-      "url": "/index/case/3.9.25/NT111509044615/20261006/TIQ-1-71128561"
+      "url": "/index/case/3.9.25/NT111509044615/20261006/NAI-1-71298975"
     }
   },
   {
@@ -1385953,11 +1385928,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128490",
+      "filename": "NAI-1-71298941",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "負壓隔離智慧病房系統",
-        "category": "財物類449-其他特殊用途之機具及其零件",
         "companies": {
           "ids": [],
           "names": [],
@@ -1385971,7 +1385945,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.9.26.3",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.9.26.3&job_number=Y11558",
       "unit_url": "/index/unit/3.9.26.3",
-      "url": "/index/case/3.9.26.3/Y11558/20261006/TIQ-1-71128490"
+      "url": "/index/case/3.9.26.3/Y11558/20261006/NAI-1-71298941"
     }
   },
   {
@@ -1385992,11 +1385966,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128427",
+      "filename": "NAI-1-71298902",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "115-116年度昆蟲與穀物相關成分檢驗分析",
-        "category": "勞務類8676-技術檢定與分析服務",
         "companies": {
           "ids": [],
           "names": [],
@@ -1386010,7 +1385983,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.19.9",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.19.9&job_number=1152038",
       "unit_url": "/index/unit/A.19.9",
-      "url": "/index/case/A.19.9/1152038/20261006/TIQ-1-71128427"
+      "url": "/index/case/A.19.9/1152038/20261006/NAI-1-71298902"
     }
   },
   {
@@ -1386069,11 +1386042,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128607",
+      "filename": "NAI-1-71299012",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "115-116年度電力檢測案",
-        "category": "勞務類886-附帶於金屬產品、機械及設備維修之服務",
         "companies": {
           "ids": [],
           "names": [],
@@ -1386087,7 +1386059,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.5.47.1",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.5.47.1&job_number=FD16003P003",
       "unit_url": "/index/unit/3.5.47.1",
-      "url": "/index/case/3.5.47.1/FD16003P003/20261006/TIQ-1-71128607"
+      "url": "/index/case/3.5.47.1/FD16003P003/20261006/NAI-1-71299012"
     }
   },
   {
@@ -1386260,11 +1386232,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128015",
+      "filename": "NAI-1-71298479",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "115年度改善偏遠地區國民中小學教師宿舍計畫",
-        "category": "工程類5179-其他裝修工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -1386278,7 +1386249,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.82.7.85",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.82.7.85&job_number=YDES1150908",
       "unit_url": "/index/unit/3.82.7.85",
-      "url": "/index/case/3.82.7.85/YDES1150908/20261006/TIQ-1-71128015"
+      "url": "/index/case/3.82.7.85/YDES1150908/20261006/NAI-1-71298479"
     }
   },
   {
@@ -1387760,11 +1387731,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128459",
+      "filename": "NAI-1-71298938",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "紅外線天然氣氣體測定器乙批",
-        "category": "財物類482-做為測量、檢查、航行及其他目的用之儀器和裝置，除光學儀器;工業程序控制設備;上述各項之零件及附件",
         "companies": {
           "ids": [],
           "names": [],
@@ -1387778,7 +1387748,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.13.31.40",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.13.31.40&job_number=3411500225",
       "unit_url": "/index/unit/3.13.31.40",
-      "url": "/index/case/3.13.31.40/3411500225/20261006/TIQ-1-71128459"
+      "url": "/index/case/3.13.31.40/3411500225/20261006/NAI-1-71298938"
     }
   },
   {
@@ -1388467,11 +1388437,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128319",
+      "filename": "NAI-1-71298737",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "115年樹林區公園病媒蚊防治消毒勞務開口合約",
-        "category": "勞務類94-污水及垃圾處理、公共衛生及其他環保服務",
         "companies": {
           "ids": [],
           "names": [],
@@ -1388485,7 +1388454,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.82.79",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.82.79&job_number=B115003",
       "unit_url": "/index/unit/3.82.79",
-      "url": "/index/case/3.82.79/B115003/20261006/TIQ-1-71128319"
+      "url": "/index/case/3.82.79/B115003/20261006/NAI-1-71298737"
     }
   },
   {
@@ -1390298,11 +1390267,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128704",
+      "filename": "NAI-1-71299072",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "自動化建庫平台",
-        "category": "財物類481-醫療,外科及矯形設備",
         "companies": {
           "ids": [],
           "names": [],
@@ -1390316,7 +1390284,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.9.26.3",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.9.26.3&job_number=H115054",
       "unit_url": "/index/unit/3.9.26.3",
-      "url": "/index/case/3.9.26.3/H115054/20261006/TIQ-1-71128704"
+      "url": "/index/case/3.9.26.3/H115054/20261006/NAI-1-71299072"
     }
   },
   {
@@ -1390427,36 +1390395,15 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "BDM-1-71298805",
+      "filename": "NAI-1-71298801",
       "brief": {
-        "type": "決標公告",
+        "type": "無法決標公告",
         "title": "神經外科衛材3項開口契約",
         "companies": {
-          "ids": [
-            "53302074",
-            "53113496"
-          ],
-          "names": [
-            "耕銘國際有限公司",
-            "健佳生技有限公司"
-          ],
-          "id_key": {
-            "53113496": [
-              "投標廠商:投標廠商2:廠商代碼"
-            ],
-            "53302074": [
-              "投標廠商:投標廠商1:廠商代碼"
-            ]
-          },
-          "name_key": {
-            "健佳生技有限公司": [
-              "投標廠商:投標廠商2:廠商名稱",
-              "決標品項:第1品項:得標廠商1:得標廠商"
-            ],
-            "耕銘國際有限公司": [
-              "投標廠商:投標廠商1:廠商名稱"
-            ]
-          }
+          "ids": [],
+          "names": [],
+          "id_key": {},
+          "name_key": {}
         }
       },
       "job_number": "115C0215",
@@ -1390465,7 +1390412,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.82.14.1",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.82.14.1&job_number=115C0215",
       "unit_url": "/index/unit/3.82.14.1",
-      "url": "/index/case/3.82.14.1/115C0215/20261006/BDM-1-71298805"
+      "url": "/index/case/3.82.14.1/115C0215/20261006/NAI-1-71298801"
     }
   },
   {
@@ -1390537,11 +1390484,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128074",
+      "filename": "NAI-1-71298591",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "115年度龍崎區區民意外險勞務採購",
-        "category": "勞務類812-保險(包括再保險)及退休基金服務，不包括強制性社會安全服務",
         "companies": {
           "ids": [],
           "names": [],
@@ -1390555,7 +1390501,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.95.86",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.95.86&job_number=115040",
       "unit_url": "/index/unit/3.95.86",
-      "url": "/index/case/3.95.86/115040/20261006/TIQ-1-71128074"
+      "url": "/index/case/3.95.86/115040/20261006/NAI-1-71298591"
     }
   },
   {
@@ -1390576,11 +1390522,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-3-71128391",
+      "filename": "NAI-1-71298542",
       "brief": {
-        "type": "經公開評選或公開徵求之限制性招標公告",
+        "type": "無法決標公告",
         "title": "嘉義縣國民小學校園門戶環境改善計畫民雄國小、興中國小、新港國小、竹崎國小、大林國小聯合採購委託設計監造服務案",
-        "category": "勞務類8671-建築服務",
         "companies": {
           "ids": [],
           "names": [],
@@ -1390594,7 +1390539,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.50.97.21",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.50.97.21&job_number=mhps115010",
       "unit_url": "/index/unit/3.76.50.97.21",
-      "url": "/index/case/3.76.50.97.21/mhps115010/20261006/TIQ-3-71128391"
+      "url": "/index/case/3.76.50.97.21/mhps115010/20261006/NAI-1-71298542"
     }
   },
   {
@@ -1390615,11 +1390560,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128787",
+      "filename": "NAI-1-71299147",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "人工智慧分析系統",
-        "category": "財物類452-計算機及其零件與配件",
         "companies": {
           "ids": [],
           "names": [],
@@ -1390633,7 +1390577,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=03724606",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=03724606&job_number=TMU115-057",
       "unit_url": "/index/unit/03724606",
-      "url": "/index/case/03724606/TMU115-057/20261006/TIQ-1-71128787"
+      "url": "/index/case/03724606/TMU115-057/20261006/NAI-1-71299147"
     }
   },
   {
@@ -1390692,11 +1390636,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128551",
+      "filename": "NAI-1-71298834",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "訂閱租用「AI病歷自動編碼系統」",
-        "category": "財物類451-辦公室及會計機器，其零件及附件",
         "companies": {
           "ids": [],
           "names": [],
@@ -1390710,7 +1390653,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.21.100.43",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.21.100.43&job_number=1150921R",
       "unit_url": "/index/unit/A.21.100.43",
-      "url": "/index/case/A.21.100.43/1150921R/20261006/TIQ-1-71128551"
+      "url": "/index/case/A.21.100.43/1150921R/20261006/NAI-1-71298834"
     }
   },
   {
@@ -1580863,11 +1580806,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128639",
+      "filename": "NAI-1-71298966",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "115年度烈嶼鄉文化館外牆整修工程",
-        "category": "工程類5139-其他土木工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -1580881,7 +1580823,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.71.1.10",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.71.1.10&job_number=115B11",
       "unit_url": "/index/unit/3.71.1.10",
-      "url": "/index/case/3.71.1.10/115B11/20261006/TIQ-1-71128639"
+      "url": "/index/case/3.71.1.10/115B11/20261006/NAI-1-71298966"
     }
   },
   {
@@ -2156198,11 +2156140,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128486",
+      "filename": "NAI-1-71298670",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "115年度基隆港東西岸碼頭整修工程",
-        "category": "工程類5133-水道、海港、水壩及其他水利工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2156216,7 +2156157,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.15.86.1",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.15.86.1&job_number=A1E260121",
       "unit_url": "/index/unit/3.15.86.1",
-      "url": "/index/case/3.15.86.1/A1E260121/20261006/TIQ-1-71128486"
+      "url": "/index/case/3.15.86.1/A1E260121/20261006/NAI-1-71298670"
     }
   },
   {
@@ -2157081,11 +2157022,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128516",
+      "filename": "NAI-1-71298944",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "男二舍及女六舍頂樓及戶外露臺區域施作防水工程",
-        "category": "工程類5127-教育用建築工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2157099,7 +2157039,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.9.20",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.9.20&job_number=MB115062204a",
       "unit_url": "/index/unit/3.9.20",
-      "url": "/index/case/3.9.20/MB115062204a/20261006/TIQ-1-71128516"
+      "url": "/index/case/3.9.20/MB115062204a/20261006/NAI-1-71298944"
     }
   },
   {
@@ -2157895,11 +2157835,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128808",
+      "filename": "NAI-1-71299155",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "115年度新豐鄉內野溪、區域排水系統修繕維護及興建工程",
-        "category": "工程類5139-其他土木工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2157913,7 +2157852,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.44.57",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.44.57&job_number=HE1153141",
       "unit_url": "/index/unit/3.76.44.57",
-      "url": "/index/case/3.76.44.57/HE1153141/20261006/TIQ-1-71128808"
+      "url": "/index/case/3.76.44.57/HE1153141/20261006/NAI-1-71299155"
     }
   },
   {
@@ -2158171,11 +2158110,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128109",
+      "filename": "NAI-1-71298616",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "115年4月豪雨頭屋鄉鳴鳳村6鄰坑溝等5件復建工程",
-        "category": "工程類5139-其他土木工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2158189,7 +2158127,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.45.62",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.45.62&job_number=115-2-11",
       "unit_url": "/index/unit/3.76.45.62",
-      "url": "/index/case/3.76.45.62/115-2-11/20261006/TIQ-1-71128109"
+      "url": "/index/case/3.76.45.62/115-2-11/20261006/NAI-1-71298616"
     }
   },
   {
@@ -2159293,11 +2159231,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128676",
+      "filename": "NAI-1-71298660",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "多納運動場域整建二期工程",
-        "category": "工程類5139-其他土木工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2159311,7 +2159248,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.97.86",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.97.86&job_number=115087",
       "unit_url": "/index/unit/3.97.86",
-      "url": "/index/case/3.97.86/115087/20261006/TIQ-1-71128676"
+      "url": "/index/case/3.97.86/115087/20261006/NAI-1-71298660"
     }
   },
   {
@@ -2159876,11 +2159813,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128284",
+      "filename": "NAI-1-71298777",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "115年度澄清湖廠南區管線單價工程(開口契約)",
-        "category": "工程類5135-地區性管線及電纜;輔助性工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2159894,7 +2159830,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.13.52.7",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.13.52.7&job_number=7S-115-0701-0001-3",
       "unit_url": "/index/unit/3.13.52.7",
-      "url": "/index/case/3.13.52.7/7S-115-0701-0001-3/20261006/TIQ-1-71128284"
+      "url": "/index/case/3.13.52.7/7S-115-0701-0001-3/20261006/NAI-1-71298777"
     }
   },
   {
@@ -2159957,11 +2159893,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128742",
+      "filename": "NAI-1-71298756",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "115年集中特教班廁所及教學環境改善工程",
-        "category": "工程類5179-其他裝修工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2159975,7 +2159910,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.80.9.55",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.80.9.55&job_number=A11509-01",
       "unit_url": "/index/unit/3.80.9.55",
-      "url": "/index/case/3.80.9.55/A11509-01/20261006/TIQ-1-71128742"
+      "url": "/index/case/3.80.9.55/A11509-01/20261006/NAI-1-71298756"
     }
   },
   {
@@ -2160198,11 +2160133,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128815",
+      "filename": "NAI-1-71299058",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "115年度學習載具及載具管理系統（MDM）授權及行動充電車設備採購與維護",
-        "category": "財物類452-計算機及其零件與配件",
         "companies": {
           "ids": [],
           "names": [],
@@ -2160216,7 +2160150,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.92.4.62",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.92.4.62&job_number=11506004",
       "unit_url": "/index/unit/3.92.4.62",
-      "url": "/index/case/3.92.4.62/11506004/20261006/TIQ-1-71128815"
+      "url": "/index/case/3.92.4.62/11506004/20261006/NAI-1-71299058"
     }
   },
   {
@@ -2160341,11 +2160275,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128431",
+      "filename": "NAI-1-71298900",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "(114)下竹頭埤圳等復建工程",
-        "category": "工程類5133-水道、海港、水壩及其他水利工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2160359,7 +2160292,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.19.6",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.19.6&job_number=ML115A055",
       "unit_url": "/index/unit/A.19.6",
-      "url": "/index/case/A.19.6/ML115A055/20261006/TIQ-1-71128431"
+      "url": "/index/case/A.19.6/ML115A055/20261006/NAI-1-71298900"
     }
   },
   {
@@ -2160382,11 +2160315,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128371",
+      "filename": "NAI-1-71298760",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "新營區農會供銷部太子宮倉庫B03號倉整修工程",
-        "category": "工程類5129-其他用途建築工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2160400,7 +2160332,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=71610502",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=71610502&job_number=1151005",
       "unit_url": "/index/unit/71610502",
-      "url": "/index/case/71610502/1151005/20261006/TIQ-1-71128371"
+      "url": "/index/case/71610502/1151005/20261006/NAI-1-71298760"
     }
   },
   {
@@ -2161204,11 +2161136,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128182",
+      "filename": "NAI-1-71298708",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "急診大樓三樓血液透析室整修工程",
-        "category": "工程類5179-其他裝修工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2161222,7 +2161153,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.21.100.41",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.21.100.41&job_number=W1150811B",
       "unit_url": "/index/unit/A.21.100.41",
-      "url": "/index/case/A.21.100.41/W1150811B/20261006/TIQ-1-71128182"
+      "url": "/index/case/A.21.100.41/W1150811B/20261006/NAI-1-71298708"
     }
   },
   {
@@ -2161245,11 +2161176,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128314",
+      "filename": "NAI-1-71298513",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "基隆區營業處115年乙工區配電管路工程",
-        "category": "工程類5164-電力工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2161263,7 +2161193,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.13.31.1",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.13.31.1&job_number=1011570002",
       "unit_url": "/index/unit/3.13.31.1",
-      "url": "/index/case/3.13.31.1/1011570002/20261006/TIQ-1-71128314"
+      "url": "/index/case/3.13.31.1/1011570002/20261006/NAI-1-71298513"
     }
   },
   {
@@ -2161286,11 +2161216,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128286",
+      "filename": "NAI-1-71298767",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "115年度村民大會暨基層建設小型工程",
-        "category": "工程類5139-其他土木工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2161304,7 +2161233,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.45.63",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.45.63&job_number=1150010493",
       "unit_url": "/index/unit/3.76.45.63",
-      "url": "/index/case/3.76.45.63/1150010493/20261006/TIQ-1-71128286"
+      "url": "/index/case/3.76.45.63/1150010493/20261006/NAI-1-71298767"
     }
   },
   {
@@ -2161327,11 +2161256,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128234",
+      "filename": "NAI-1-71298723",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "瑪雅部落聚會所水土保持復建工程",
-        "category": "工程類5139-其他土木工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2161345,7 +2161273,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.97.88",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.97.88&job_number=115AA048",
       "unit_url": "/index/unit/3.97.88",
-      "url": "/index/case/3.97.88/115AA048/20261006/TIQ-1-71128234"
+      "url": "/index/case/3.97.88/115AA048/20261006/NAI-1-71298723"
     }
   },
   {
@@ -2161854,11 +2161782,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128001",
+      "filename": "NAI-1-71298440",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "澎湖縣馬公市北辰市場 2 樓安置區建置工程",
-        "category": "工程類5139-其他土木工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2161872,7 +2161799,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.56.51",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.56.51&job_number=YU-11505",
       "unit_url": "/index/unit/3.76.56.51",
-      "url": "/index/case/3.76.56.51/YU-11505/20261006/TIQ-1-71128001"
+      "url": "/index/case/3.76.56.51/YU-11505/20261006/NAI-1-71298440"
     }
   },
   {
@@ -2162140,11 +2162067,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128573",
+      "filename": "NAI-1-71298895",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "加拿國小--西側教室老舊廁所整修工程",
-        "category": "工程類5139-其他土木工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2162158,7 +2162084,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.54",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.54&job_number=115303010432",
       "unit_url": "/index/unit/3.76.54",
-      "url": "/index/case/3.76.54/115303010432/20261006/TIQ-1-71128573"
+      "url": "/index/case/3.76.54/115303010432/20261006/NAI-1-71298895"
     }
   },
   {
@@ -2162460,11 +2162386,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128090",
+      "filename": "NAI-1-71298545",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "ABCDEFGH棟牆面磁磚(含D棟北側牆面旁地坪整理)暨音樂教室隔音設施更新整修工程",
-        "category": "工程類5174-地板及牆面貼磚工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2162478,7 +2162403,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.48.96.21",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.48.96.21&job_number=11509201A",
       "unit_url": "/index/unit/3.76.48.96.21",
-      "url": "/index/case/3.76.48.96.21/11509201A/20261006/TIQ-1-71128090"
+      "url": "/index/case/3.76.48.96.21/11509201A/20261006/NAI-1-71298545"
     }
   },
   {
@@ -2162541,11 +2162466,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128191",
+      "filename": "NAI-1-71298690",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "115年度消防廳舍漸進式警報及照明系統",
-        "category": "財物類465-燈絲電燈泡或放電式燈泡；弧光燈；照明設備；上述各項之零件",
         "companies": {
           "ids": [],
           "names": [],
@@ -2162559,7 +2162483,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.55.20",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.55.20&job_number=FI1150917OD",
       "unit_url": "/index/unit/3.76.55.20",
-      "url": "/index/case/3.76.55.20/FI1150917OD/20261006/TIQ-1-71128191"
+      "url": "/index/case/3.76.55.20/FI1150917OD/20261006/NAI-1-71298690"
     }
   },
   {
@@ -2162582,11 +2162506,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128726",
+      "filename": "NAI-1-71298878",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "至正國中至美樓東側廁所整修工程採購案",
-        "category": "工程類5179-其他裝修工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2162600,7 +2162523,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.53.96.38",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.53.96.38&job_number=1150918",
       "unit_url": "/index/unit/3.76.53.96.38",
-      "url": "/index/case/3.76.53.96.38/1150918/20261006/TIQ-1-71128726"
+      "url": "/index/case/3.76.53.96.38/1150918/20261006/NAI-1-71298878"
     }
   },
   {
@@ -2162783,11 +2162706,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128443",
+      "filename": "NAI-1-71298712",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "臺南市立極限運動場整修工程",
-        "category": "工程類5137-運動及娛樂工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2162801,7 +2162723,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.95.38",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.95.38&job_number=TNS-292002",
       "unit_url": "/index/unit/3.95.38",
-      "url": "/index/case/3.95.38/TNS-292002/20261006/TIQ-1-71128443"
+      "url": "/index/case/3.95.38/TNS-292002/20261006/NAI-1-71298712"
     }
   },
   {
@@ -2162824,11 +2162746,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128156",
+      "filename": "NAI-1-71298561",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "Danas-A06-01-07-振興部落災後復建工程",
-        "category": "工程類5139-其他土木工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2162842,7 +2162763,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.54.60",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.54.60&job_number=115A006-3",
       "unit_url": "/index/unit/3.76.54.60",
-      "url": "/index/case/3.76.54.60/115A006-3/20261006/TIQ-1-71128156"
+      "url": "/index/case/3.76.54.60/115A006-3/20261006/NAI-1-71298561"
     }
   },
   {
@@ -2162865,11 +2162786,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128244",
+      "filename": "NAI-1-71298740",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "老街溪斷面25~25-1右岸堤防延長應急工程",
-        "category": "工程類5133-水道、海港、水壩及其他水利工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2162883,7 +2162803,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.80.25",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.80.25&job_number=1150921-J1",
       "unit_url": "/index/unit/3.80.25",
-      "url": "/index/case/3.80.25/1150921-J1/20261006/TIQ-1-71128244"
+      "url": "/index/case/3.80.25/1150921-J1/20261006/NAI-1-71298740"
     }
   },
   {
@@ -2163203,11 +2163123,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71127967",
+      "filename": "NAI-1-71298486",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "關廟區新光里新埔段1973地號護岸改善工程",
-        "category": "工程類5133-水道、海港、水壩及其他水利工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2163221,7 +2163140,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.95.85",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.95.85&job_number=115090401",
       "unit_url": "/index/unit/3.95.85",
-      "url": "/index/case/3.95.85/115090401/20261006/TIQ-1-71127967"
+      "url": "/index/case/3.95.85/115090401/20261006/NAI-1-71298486"
     }
   },
   {
@@ -2164057,11 +2163976,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128695",
+      "filename": "NAI-1-71298807",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "雲林縣饒平國小辦理「114-116年公立國民中小學老舊廁所整修工程計畫」",
-        "category": "工程類5127-教育用建築工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2164075,7 +2163993,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.49.97.37",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.49.97.37&job_number=A115002",
       "unit_url": "/index/unit/3.76.49.97.37",
-      "url": "/index/case/3.76.49.97.37/A115002/20261006/TIQ-1-71128695"
+      "url": "/index/case/3.76.49.97.37/A115002/20261006/NAI-1-71298807"
     }
   },
   {
@@ -2164231,11 +2164149,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128642",
+      "filename": "NAI-1-71298671",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "多納部落災後復建工程",
-        "category": "工程類5139-其他土木工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2164249,7 +2164166,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.97.86",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.97.86&job_number=115083",
       "unit_url": "/index/unit/3.97.86",
-      "url": "/index/case/3.97.86/115083/20261006/TIQ-1-71128642"
+      "url": "/index/case/3.97.86/115083/20261006/NAI-1-71298671"
     }
   },
   {
@@ -2165076,11 +2164993,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128811",
+      "filename": "NAI-1-71299151",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "115年度教學大樓能效改善及淨零示範工程",
-        "category": "工程類5161-暖氣,通風及空調工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2165094,7 +2165010,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.92.32",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.92.32&job_number=C115017",
       "unit_url": "/index/unit/3.92.32",
-      "url": "/index/case/3.92.32/C115017/20261006/TIQ-1-71128811"
+      "url": "/index/case/3.92.32/C115017/20261006/NAI-1-71299151"
     }
   },
   {
@@ -2165332,10 +2165248,11 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "NAI-1-71298410",
+      "filename": "TIQ-11-71127918",
       "brief": {
-        "type": "無法決標公告",
+        "type": "公開取得報價單或企劃書公告",
         "title": "關廟區布袋里深坑子段831-14地號旁第三期排水改善工程",
+        "category": "工程類5133-水道、海港、水壩及其他水利工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2165349,7 +2165266,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.95.85",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.95.85&job_number=115092301",
       "unit_url": "/index/unit/3.95.85",
-      "url": "/index/case/3.95.85/115092301/20261006/NAI-1-71298410"
+      "url": "/index/case/3.95.85/115092301/20261006/TIQ-11-71127918"
     }
   },
   {
@@ -2168690,11 +2168607,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128494",
+      "filename": "NAI-1-71298635",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "文湖線木柵段水電及消防設備保養維護工作",
-        "category": "勞務類886-附帶於金屬產品、機械及設備維修之服務",
         "companies": {
           "ids": [],
           "names": [],
@@ -2168708,7 +2168624,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.79.62",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.79.62&job_number=B15A00369",
       "unit_url": "/index/unit/3.79.62",
-      "url": "/index/case/3.79.62/B15A00369/20261006/TIQ-1-71128494"
+      "url": "/index/case/3.79.62/B15A00369/20261006/NAI-1-71298635"
     }
   },
   {
@@ -2326006,11 +2325922,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128546",
+      "filename": "NAI-1-71298979",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "116年金岳段轄區機房清潔零星修繕工作",
-        "category": "勞務類911-政府行政服務",
         "companies": {
           "ids": [],
           "names": [],
@@ -2326024,7 +2325939,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.15.3.4",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.15.3.4&job_number=1154E038",
       "unit_url": "/index/unit/A.15.3.4",
-      "url": "/index/case/A.15.3.4/1154E038/20261006/TIQ-1-71128546"
+      "url": "/index/case/A.15.3.4/1154E038/20261006/NAI-1-71298979"
     }
   },
   {
@@ -2326132,11 +2326047,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128700",
+      "filename": "NAI-1-71299078",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "宜蘭縣礁溪鄉時福橋橋梁改建工程",
-        "category": "工程類5132-橋樑,高架快速道路,隧道及地鐵",
         "companies": {
           "ids": [],
           "names": [],
@@ -2326150,7 +2326064,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.42.55",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.42.55&job_number=115-POPOO-03",
       "unit_url": "/index/unit/3.76.42.55",
-      "url": "/index/case/3.76.42.55/115-POPOO-03/20261006/TIQ-1-71128700"
+      "url": "/index/case/3.76.42.55/115-POPOO-03/20261006/NAI-1-71299078"
     }
   },
   {
@@ -2326815,11 +2326729,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128758",
+      "filename": "NAI-1-71299016",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "青溪D/S結構補強洗孔土木工程",
-        "category": "工程類5164-電力工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2326833,7 +2326746,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.13.32.16.3",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.13.32.16.3&job_number=6541551026",
       "unit_url": "/index/unit/3.13.32.16.3",
-      "url": "/index/case/3.13.32.16.3/6541551026/20261006/TIQ-1-71128758"
+      "url": "/index/case/3.13.32.16.3/6541551026/20261006/NAI-1-71299016"
     }
   },
   {
@@ -2327087,11 +2327000,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128610",
+      "filename": "NAI-1-71298985",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "116年新北市智慧道路管理中心電腦資料輸入及工程協調勞務性工作",
-        "category": "勞務類849-其他電腦服務",
         "companies": {
           "ids": [],
           "names": [],
@@ -2327105,7 +2327017,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.13.31.4",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.13.31.4&job_number=1151500027",
       "unit_url": "/index/unit/3.13.31.4",
-      "url": "/index/case/3.13.31.4/1151500027/20261006/TIQ-1-71128610"
+      "url": "/index/case/3.13.31.4/1151500027/20261006/NAI-1-71298985"
     }
   },
   {
@@ -2327467,11 +2327379,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128224",
+      "filename": "NAI-1-71298720",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "115年度原住民族地區部落聯絡道路養護工程(開口契約)",
-        "category": "工程類5139-其他土木工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2327485,7 +2327396,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.97.88",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.97.88&job_number=115AA025-2",
       "unit_url": "/index/unit/3.97.88",
-      "url": "/index/case/3.97.88/115AA025-2/20261006/TIQ-1-71128224"
+      "url": "/index/case/3.97.88/115AA025-2/20261006/NAI-1-71298720"
     }
   },
   {
@@ -2327824,11 +2327735,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128114",
+      "filename": "NAI-1-71298580",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "115年度南化區北平里等2處道路邊坡改善工程",
-        "category": "工程類5139-其他土木工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2327842,7 +2327752,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.95.81",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.95.81&job_number=115A091",
       "unit_url": "/index/unit/3.95.81",
-      "url": "/index/case/3.95.81/115A091/20261006/TIQ-1-71128114"
+      "url": "/index/case/3.95.81/115A091/20261006/NAI-1-71298580"
     }
   },
   {
@@ -2328142,11 +2328052,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128306",
+      "filename": "NAI-1-71298607",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "大湖鄉115年度機械待命及道路與農水路搶修搶通處理工程-南三村(南湖、栗林、新開) -1",
-        "category": "工程類5139-其他土木工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2328160,7 +2328069,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.45.58",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.45.58&job_number=115A019",
       "unit_url": "/index/unit/3.76.45.58",
-      "url": "/index/case/3.76.45.58/115A019/20261006/TIQ-1-71128306"
+      "url": "/index/case/3.76.45.58/115A019/20261006/NAI-1-71298607"
     }
   },
   {
@@ -2328184,11 +2328093,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128311",
+      "filename": "NAI-1-71298618",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "大湖鄉115年度機械待命及道路與農水路搶修搶通處理工程-南三村(義和、武榮、東興)-1",
-        "category": "工程類5139-其他土木工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2328202,7 +2328110,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.45.58",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.45.58&job_number=115A020",
       "unit_url": "/index/unit/3.76.45.58",
-      "url": "/index/case/3.76.45.58/115A020/20261006/TIQ-1-71128311"
+      "url": "/index/case/3.76.45.58/115A020/20261006/NAI-1-71298618"
     }
   },
   {
@@ -2328226,11 +2328134,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128325",
+      "filename": "NAI-1-71298615",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "大湖鄉115年度機械待命及道路與農水路搶修搶通處理工程-北三村(大湖、靜湖、大南)-1",
-        "category": "工程類5139-其他土木工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2328244,7 +2328151,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.45.58",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.45.58&job_number=115A022",
       "unit_url": "/index/unit/3.76.45.58",
-      "url": "/index/case/3.76.45.58/115A022/20261006/TIQ-1-71128325"
+      "url": "/index/case/3.76.45.58/115A022/20261006/NAI-1-71298615"
     }
   },
   {
@@ -2328268,11 +2328175,10 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261006,
-      "filename": "TIQ-1-71128321",
+      "filename": "NAI-1-71298619",
       "brief": {
-        "type": "公開招標公告",
+        "type": "無法決標公告",
         "title": "大湖鄉115年度機械待命及道路與農水路搶修搶通處理工程-北三村(明湖、大寮、富興)-1",
-        "category": "工程類5139-其他土木工程",
         "companies": {
           "ids": [],
           "names": [],
@@ -2328286,7 +2328192,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.45.58",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.45.58&job_number=115A021",
       "unit_url": "/index/unit/3.76.45.58",
-      "url": "/index/case/3.76.45.58/115A021/20261006/TIQ-1-71128321"
+      "url": "/index/case/3.76.45.58/115A021/20261006/NAI-1-71298619"
     }
   },
   {
