@@ -8036,48 +8036,6 @@
     }
   },
   {
-    "id": "2237d6cf1e4b7d22613d",
-    "procNo": "115173",
-    "title": "「2026高雄漾藝術博覽會藝術家、策展團隊與評審委員住宿旅店」開口契約勞務採購案",
-    "agency": "高雄市政府文化局",
-    "budget": 0,
-    "posted": "20260903",
-    "deadline": "",
-    "type": "活動策展",
-    "fit": 60,
-    "decision": "研究",
-    "positiveSignals": [
-      "策展",
-      "文化"
-    ],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20260903,
-      "filename": "ttd-71316769",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "「2026高雄漾藝術博覽會藝術家、策展團隊與評審委員住宿旅店」開口契約勞務採購案",
-        "category": "勞務類641-旅館及其他住宿服務",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "115173",
-      "unit_id": "3.97.33",
-      "unit_name": "高雄市政府文化局",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.97.33",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.97.33&job_number=115173",
-      "unit_url": "/index/unit/3.97.33",
-      "url": "/index/case/3.97.33/115173/20260903/ttd-71316769"
-    }
-  },
-  {
     "id": "593fb1714b1454469f23",
     "procNo": "T113001",
     "title": "2024馬祖春季旅遊行銷推廣活動企劃與執行案",
@@ -22582,6 +22540,60 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.10.99.72&job_number=115J-04",
       "unit_url": "/index/unit/3.10.99.72",
       "url": "/index/case/3.10.99.72/115J-04/20261015/ttd-71353438"
+    }
+  },
+  {
+    "id": "2237d6cf1e4b7d22613d",
+    "procNo": "115173",
+    "title": "「2026高雄漾藝術博覽會藝術家、策展團隊與評審委員住宿旅店」開口契約勞務採購案",
+    "agency": "高雄市政府文化局",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "活動策展",
+    "fit": 60,
+    "decision": "研究",
+    "positiveSignals": [
+      "策展",
+      "文化"
+    ],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309235",
+      "brief": {
+        "type": "決標公告",
+        "title": "「2026高雄漾藝術博覽會藝術家、策展團隊與評審委員住宿旅店」開口契約勞務採購案",
+        "companies": {
+          "ids": [
+            "42633490"
+          ],
+          "names": [
+            "城市商旅股份有限公司海景分公司"
+          ],
+          "id_key": {
+            "42633490": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "城市商旅股份有限公司海景分公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "115173",
+      "unit_id": "3.97.33",
+      "unit_name": "高雄市政府文化局",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.97.33",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.97.33&job_number=115173",
+      "unit_url": "/index/unit/3.97.33",
+      "url": "/index/case/3.97.33/115173/20261016/aaa-71309235"
     }
   },
   {
@@ -117693,47 +117705,6 @@
     }
   },
   {
-    "id": "8d457a33912b61b2cb3e",
-    "procNo": "1150015943",
-    "title": "卓溪鄉參加115年花蓮縣運動會活動服裝採購案",
-    "agency": "花蓮縣卓溪鄉公所",
-    "budget": 0,
-    "posted": "20260924",
-    "deadline": "",
-    "type": "活動策展",
-    "fit": 55,
-    "decision": "研究",
-    "positiveSignals": [
-      "活動"
-    ],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20260924,
-      "filename": "ttd-71334710",
-      "brief": {
-        "type": "公開取得報價單或企劃書更正公告",
-        "title": "卓溪鄉參加115年花蓮縣運動會活動服裝採購案",
-        "category": "財物類281-編織或鉤針織品",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "1150015943",
-      "unit_id": "3.76.55.62",
-      "unit_name": "花蓮縣卓溪鄉公所",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.55.62",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.55.62&job_number=1150015943",
-      "unit_url": "/index/unit/3.76.55.62",
-      "url": "/index/case/3.76.55.62/1150015943/20260924/ttd-71334710"
-    }
-  },
-  {
     "id": "6c0d62738233d27e0547",
     "procNo": "115-04-026",
     "title": "影像增強型相機壹台",
@@ -142811,47 +142782,6 @@
     }
   },
   {
-    "id": "be1e21af2135e0171435",
-    "procNo": "115014",
-    "title": "115學年度七年級戶外教育活動委託專業服務勞務採購案",
-    "agency": "新竹縣立忠孝國民中學",
-    "budget": 0,
-    "posted": "20261005",
-    "deadline": "",
-    "type": "活動策展",
-    "fit": 55,
-    "decision": "研究",
-    "positiveSignals": [
-      "活動"
-    ],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261005,
-      "filename": "ttd-71342671",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "115學年度七年級戶外教育活動委託專業服務勞務採購案",
-        "category": "勞務類92-教育服務",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "115014",
-      "unit_id": "3.76.44.96.25",
-      "unit_name": "新竹縣立忠孝國民中學",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.44.96.25",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.44.96.25&job_number=115014",
-      "unit_url": "/index/unit/3.76.44.96.25",
-      "url": "/index/case/3.76.44.96.25/115014/20261005/ttd-71342671"
-    }
-  },
-  {
     "id": "500145db085c2b20d96a",
     "procNo": "1151014",
     "title": "和仁國小115學年度六年級校外教學活動",
@@ -152938,47 +152868,6 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.47.96.21&job_number=fyjh1151001",
       "unit_url": "/index/unit/3.76.47.96.21",
       "url": "/index/case/3.76.47.96.21/fyjh1151001/20261007/ttd-71345283"
-    }
-  },
-  {
-    "id": "9b4dd73305fb1066b11a",
-    "procNo": "1153048",
-    "title": "115年員工環境教育訓練活動",
-    "agency": "農業部農業試驗所",
-    "budget": 0,
-    "posted": "20261007",
-    "deadline": "",
-    "type": "活動策展",
-    "fit": 55,
-    "decision": "研究",
-    "positiveSignals": [
-      "活動"
-    ],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261007,
-      "filename": "ttd-71345345",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "115年員工環境教育訓練活動",
-        "category": "勞務類96-娛樂,文化,體育服務",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "1153048",
-      "unit_id": "A.19.9",
-      "unit_name": "農業部農業試驗所",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.19.9",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.19.9&job_number=1153048",
-      "unit_url": "/index/unit/A.19.9",
-      "url": "/index/case/A.19.9/1153048/20261007/ttd-71345345"
     }
   },
   {
@@ -182768,6 +182657,152 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.13.50.41.9&job_number=RDB1416003-1",
       "unit_url": "/index/unit/3.13.50.41.9",
       "url": "/index/case/3.13.50.41.9/RDB1416003-1/20261015/aaa-71307325"
+    }
+  },
+  {
+    "id": "8d457a33912b61b2cb3e",
+    "procNo": "1150015943",
+    "title": "卓溪鄉參加115年花蓮縣運動會活動服裝採購案",
+    "agency": "花蓮縣卓溪鄉公所",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "活動策展",
+    "fit": 55,
+    "decision": "研究",
+    "positiveSignals": [
+      "活動"
+    ],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309091",
+      "brief": {
+        "type": "決標公告",
+        "title": "卓溪鄉參加115年花蓮縣運動會活動服裝採購案",
+        "companies": {
+          "ids": [
+            "91159345"
+          ],
+          "names": [
+            "動起來企業社"
+          ],
+          "id_key": {
+            "91159345": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "動起來企業社": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "1150015943",
+      "unit_id": "3.76.55.62",
+      "unit_name": "花蓮縣卓溪鄉公所",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.55.62",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.55.62&job_number=1150015943",
+      "unit_url": "/index/unit/3.76.55.62",
+      "url": "/index/case/3.76.55.62/1150015943/20261016/aaa-71309091"
+    }
+  },
+  {
+    "id": "be1e21af2135e0171435",
+    "procNo": "115014",
+    "title": "115學年度七年級戶外教育活動委託專業服務勞務採購案",
+    "agency": "新竹縣立忠孝國民中學",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "活動策展",
+    "fit": 55,
+    "decision": "研究",
+    "positiveSignals": [
+      "活動"
+    ],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71308815",
+      "brief": {
+        "type": "決標公告",
+        "title": "115學年度七年級戶外教育活動委託專業服務勞務採購案",
+        "companies": {
+          "ids": [
+            "42776530"
+          ],
+          "names": [
+            "精豐旅行社股份有限公司"
+          ],
+          "id_key": {
+            "42776530": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "精豐旅行社股份有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "115014",
+      "unit_id": "3.76.44.96.25",
+      "unit_name": "新竹縣立忠孝國民中學",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.44.96.25",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.44.96.25&job_number=115014",
+      "unit_url": "/index/unit/3.76.44.96.25",
+      "url": "/index/case/3.76.44.96.25/115014/20261016/aaa-71308815"
+    }
+  },
+  {
+    "id": "9b4dd73305fb1066b11a",
+    "procNo": "1153048",
+    "title": "115年員工環境教育訓練活動",
+    "agency": "農業部農業試驗所",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "活動策展",
+    "fit": 55,
+    "decision": "研究",
+    "positiveSignals": [
+      "活動"
+    ],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "anaa-71308801",
+      "brief": {
+        "type": "無法決標公告",
+        "title": "115年員工環境教育訓練活動",
+        "companies": {
+          "ids": [],
+          "names": [],
+          "id_key": {},
+          "name_key": {}
+        }
+      },
+      "job_number": "1153048",
+      "unit_id": "A.19.9",
+      "unit_name": "農業部農業試驗所",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.19.9",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.19.9&job_number=1153048",
+      "unit_url": "/index/unit/A.19.9",
+      "url": "/index/case/A.19.9/1153048/20261016/anaa-71308801"
     }
   },
   {
@@ -509716,45 +509751,6 @@
     }
   },
   {
-    "id": "4a2da693531001d2a3db",
-    "procNo": "116Y009",
-    "title": "116年度採購及資材線上審核管理系統維護服務、功能擴增優化案",
-    "agency": "勞動部勞動力發展署桃竹苗分署",
-    "budget": 0,
-    "posted": "20260901",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20260901,
-      "filename": "ttd-71314541",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "116年度採購及資材線上審核管理系統維護服務、功能擴增優化案",
-        "category": "勞務類842-軟體執行服務",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "116Y009",
-      "unit_id": "A.17.2.2",
-      "unit_name": "勞動部勞動力發展署桃竹苗分署",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.17.2.2",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.17.2.2&job_number=116Y009",
-      "unit_url": "/index/unit/A.17.2.2",
-      "url": "/index/case/A.17.2.2/116Y009/20260901/ttd-71314541"
-    }
-  },
-  {
     "id": "9df3945af559d53a03e2",
     "procNo": "115003",
     "title": "嘉義縣太保市安東國小115年度第二期游泳教學交通車租賃勞務採購",
@@ -810028,45 +810024,6 @@
     }
   },
   {
-    "id": "a1dc16937acbd0500428",
-    "procNo": "MLH11502022",
-    "title": "衛材1批(項次1：免疫潛血糞便採集棒；預估數量25,000支、項次2：內視鏡逆行性膽胰管攝影術使用括約肌切開術電極；預估數量180EA)",
-    "agency": "衛生福利部苗栗醫院",
-    "budget": 0,
-    "posted": "20260914",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20260914,
-      "filename": "ttd-71318383",
-      "brief": {
-        "type": "公開取得報價單或企劃書更正公告",
-        "title": "衛材1批(項次1：免疫潛血糞便採集棒；預估數量25,000支、項次2：內視鏡逆行性膽胰管攝影術使用括約肌切開術電極；預估數量180EA)",
-        "category": "財物類481-醫療,外科及矯形設備",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "MLH11502022",
-      "unit_id": "A.21.100.34",
-      "unit_name": "衛生福利部苗栗醫院",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.21.100.34",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.21.100.34&job_number=MLH11502022",
-      "unit_url": "/index/unit/A.21.100.34",
-      "url": "/index/case/A.21.100.34/MLH11502022/20260914/ttd-71318383"
-    }
-  },
-  {
     "id": "c3a6742345639e709be5",
     "procNo": "1150903",
     "title": "臺中市神岡區社口國民小學115學年度三、四、五年級戶外教育服務採購",
@@ -855425,45 +855382,6 @@
     }
   },
   {
-    "id": "af4062a07e31750b5fa0",
-    "procNo": "115P21",
-    "title": "115年二期校舍冷氣機安裝勞務採購案",
-    "agency": "臺中市立西苑高級中學",
-    "budget": 0,
-    "posted": "20260916",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20260916,
-      "filename": "ttd-71325279",
-      "brief": {
-        "type": "公開取得報價單或企劃書更正公告",
-        "title": "115年二期校舍冷氣機安裝勞務採購案",
-        "category": "勞務類63-零售業服務；個人及家用品維修服務",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "115P21",
-      "unit_id": "3.87.4.91",
-      "unit_name": "臺中市立西苑高級中學",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.87.4.91",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.87.4.91&job_number=115P21",
-      "unit_url": "/index/unit/3.87.4.91",
-      "url": "/index/case/3.87.4.91/115P21/20260916/ttd-71325279"
-    }
-  },
-  {
     "id": "130f91f236bcad2cc834",
     "procNo": "11512",
     "title": "學校建築物內環境維護",
@@ -883229,45 +883147,6 @@
     }
   },
   {
-    "id": "b9859c5add29b884910b",
-    "procNo": "LP16043",
-    "title": "婦女泌尿一體成型膀胱鏡1支",
-    "agency": "高雄榮民總醫院",
-    "budget": 0,
-    "posted": "20260916",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20260916,
-      "filename": "ttd-71327898",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "婦女泌尿一體成型膀胱鏡1支",
-        "category": "財物類481-醫療,外科及矯形設備",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "LP16043",
-      "unit_id": "3.32.82",
-      "unit_name": "高雄榮民總醫院",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.32.82",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.32.82&job_number=LP16043",
-      "unit_url": "/index/unit/3.32.82",
-      "url": "/index/case/3.32.82/LP16043/20260916/ttd-71327898"
-    }
-  },
-  {
     "id": "2cc56e5c1e02425e5b14",
     "procNo": "09-11507082",
     "title": "115年無紙化會議行動裝置軟硬體採購案",
@@ -883342,45 +883221,6 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.55.97.70&job_number=Glps1150915",
       "unit_url": "/index/unit/3.76.55.97.70",
       "url": "/index/case/3.76.55.97.70/Glps1150915/20260916/anaa-71284876"
-    }
-  },
-  {
-    "id": "024188ee9950f7a597d7",
-    "procNo": "30808",
-    "title": "115年度三件式休閒服",
-    "agency": "衛生福利部朴子醫院",
-    "budget": 0,
-    "posted": "20260916",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20260916,
-      "filename": "ttd-71328343",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "115年度三件式休閒服",
-        "category": "財物類446-製造紡織品,服裝及皮革產品之機具及其零件",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "30808",
-      "unit_id": "A.21.100.40",
-      "unit_name": "衛生福利部朴子醫院",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.21.100.40",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.21.100.40&job_number=30808",
-      "unit_url": "/index/unit/A.21.100.40",
-      "url": "/index/case/A.21.100.40/30808/20260916/ttd-71328343"
     }
   },
   {
@@ -884232,57 +884072,6 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.5.95&job_number=HC15076P064",
       "unit_url": "/index/unit/3.5.95",
       "url": "/index/case/3.5.95/HC15076P064/20260916/aaa-71285837"
-    }
-  },
-  {
-    "id": "d539a283799f65b70fdb",
-    "procNo": "11507",
-    "title": "A3 80g/m2白色及淺紫色、金黃色影印紙財物採購案",
-    "agency": "臺南市選舉委員會",
-    "budget": 0,
-    "posted": "20260916",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20260916,
-      "filename": "aaa-71285588",
-      "brief": {
-        "type": "決標公告",
-        "title": "A3 80g/m2白色及淺紫色、金黃色影印紙財物採購案",
-        "companies": {
-          "ids": [
-            "23075143"
-          ],
-          "names": [
-            "晧晟實業股份有限公司"
-          ],
-          "id_key": {
-            "23075143": [
-              "投標廠商:投標廠商1:廠商代碼"
-            ]
-          },
-          "name_key": {
-            "晧晟實業股份有限公司": [
-              "投標廠商:投標廠商1:廠商名稱",
-              "決標品項:第1品項:得標廠商1:得標廠商"
-            ]
-          }
-        }
-      },
-      "job_number": "11507",
-      "unit_id": "3.49.100.3",
-      "unit_name": "臺南市選舉委員會",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.49.100.3",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.49.100.3&job_number=11507",
-      "unit_url": "/index/unit/3.49.100.3",
-      "url": "/index/case/3.49.100.3/11507/20260916/aaa-71285588"
     }
   },
   {
@@ -932536,45 +932325,6 @@
     }
   },
   {
-    "id": "61a4788e988bc0016fe0",
-    "procNo": "1151016",
-    "title": "臺南市永康區大橋國民小學115學年度一年級學生戶外教育勞務採購",
-    "agency": "臺南市永康區大橋國民小學",
-    "budget": 0,
-    "posted": "20260918",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20260918,
-      "filename": "ttd-71329995",
-      "brief": {
-        "type": "公開取得報價單或企劃書更正公告",
-        "title": "臺南市永康區大橋國民小學115學年度一年級學生戶外教育勞務採購",
-        "category": "勞務類92-教育服務",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "1151016",
-      "unit_id": "3.95.8.97",
-      "unit_name": "臺南市永康區大橋國民小學",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.95.8.97",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.95.8.97&job_number=1151016",
-      "unit_url": "/index/unit/3.95.8.97",
-      "url": "/index/case/3.95.8.97/1151016/20260918/ttd-71329995"
-    }
-  },
-  {
     "id": "77faf940d693b0343a32",
     "procNo": "T1150916",
     "title": "一般檢驗試劑及耗材一批",
@@ -948287,45 +948037,6 @@
     }
   },
   {
-    "id": "108c1ba83b3854fb7507",
-    "procNo": "20260917-277-35",
-    "title": "臺灣銀行上海分行保安服務採購案",
-    "agency": "臺灣銀行股份有限公司",
-    "budget": 0,
-    "posted": "20260918",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20260918,
-      "filename": "ttd-71331629",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "臺灣銀行上海分行保安服務採購案",
-        "category": "勞務類873-調查及保安服務",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "20260917-277-35",
-      "unit_id": "A.7.31.1",
-      "unit_name": "臺灣銀行股份有限公司",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.7.31.1",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.7.31.1&job_number=20260917-277-35",
-      "unit_url": "/index/unit/A.7.31.1",
-      "url": "/index/case/A.7.31.1/20260917-277-35/20260918/ttd-71331629"
-    }
-  },
-  {
     "id": "825401f000eb0b9ab36b",
     "procNo": "11540",
     "title": "115年度交通標誌材料採購",
@@ -948674,45 +948385,6 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.47.1.1&job_number=N115-038",
       "unit_url": "/index/unit/A.47.1.1",
       "url": "/index/case/A.47.1.1/N115-038/20260918/ttd-71331400"
-    }
-  },
-  {
-    "id": "4cb1dafefa030469e2ef",
-    "procNo": "20260917-277-34",
-    "title": "臺灣銀行上海分行臺籍員眷醫療保險採購案",
-    "agency": "臺灣銀行股份有限公司",
-    "budget": 0,
-    "posted": "20260918",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20260918,
-      "filename": "ttd-71331627",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "臺灣銀行上海分行臺籍員眷醫療保險採購案",
-        "category": "勞務類812-保險(包括再保險)及退休基金服務，不包括強制性社會安全服務",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "20260917-277-34",
-      "unit_id": "A.7.31.1",
-      "unit_name": "臺灣銀行股份有限公司",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.7.31.1",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.7.31.1&job_number=20260917-277-34",
-      "unit_url": "/index/unit/A.7.31.1",
-      "url": "/index/case/A.7.31.1/20260917-277-34/20260918/ttd-71331627"
     }
   },
   {
@@ -1008983,45 +1008655,6 @@
     }
   },
   {
-    "id": "2ea7f992de6316eed494",
-    "procNo": "1153007",
-    "title": "115年度水肥抽取採購案",
-    "agency": "法務部矯正署臺南第二監獄",
-    "budget": 0,
-    "posted": "20260922",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20260922,
-      "filename": "ttd-71331060",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "115年度水肥抽取採購案",
-        "category": "勞務類94-污水及垃圾處理、公共衛生及其他環保服務",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "1153007",
-      "unit_id": "A.11.4.26",
-      "unit_name": "法務部矯正署臺南第二監獄",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.11.4.26",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.11.4.26&job_number=1153007",
-      "unit_url": "/index/unit/A.11.4.26",
-      "url": "/index/case/A.11.4.26/1153007/20260922/ttd-71331060"
-    }
-  },
-  {
     "id": "ef31f5925c384bb0e480",
     "procNo": "Y115-D01",
     "title": "行政院「115年客家生活節」採購案",
@@ -1011799,45 +1011432,6 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.95.7.18&job_number=HTPS1150907",
       "unit_url": "/index/unit/3.95.7.18",
       "url": "/index/case/3.95.7.18/HTPS1150907/20260923/anaa-71290341"
-    }
-  },
-  {
-    "id": "cccc39e18199981411b3",
-    "procNo": "115129f",
-    "title": "「苗栗縣立圖書館多元子計畫3主題館藏採購」案",
-    "agency": "苗栗縣政府",
-    "budget": 0,
-    "posted": "20260923",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20260923,
-      "filename": "ttd-71329456",
-      "brief": {
-        "type": "公開取得報價單或企劃書更正公告",
-        "title": "「苗栗縣立圖書館多元子計畫3主題館藏採購」案",
-        "category": "財物類32-紙漿,紙及紙產品;印刷品及相關的商品",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "115129f",
-      "unit_id": "3.76.45",
-      "unit_name": "苗栗縣政府",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.45",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.45&job_number=115129f",
-      "unit_url": "/index/unit/3.76.45",
-      "url": "/index/case/3.76.45/115129f/20260923/ttd-71329456"
     }
   },
   {
@@ -1078248,84 +1077842,6 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.82.8.18&job_number=115C001",
       "unit_url": "/index/unit/3.82.8.18",
       "url": "/index/case/3.82.8.18/115C001/20260924/ttd-71330677"
-    }
-  },
-  {
-    "id": "368799c9556473b5a3e7",
-    "procNo": "1150902",
-    "title": "「新北市115年度原住民族學生語言競賽」勞務採購案",
-    "agency": "新北市政府原住民族行政局",
-    "budget": 0,
-    "posted": "20260924",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20260924,
-      "filename": "ttd-71336672",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "「新北市115年度原住民族學生語言競賽」勞務採購案",
-        "category": "勞務類96-娛樂,文化,體育服務",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "1150902",
-      "unit_id": "3.82.34",
-      "unit_name": "新北市政府原住民族行政局",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.82.34",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.82.34&job_number=1150902",
-      "unit_url": "/index/unit/3.82.34",
-      "url": "/index/case/3.82.34/1150902/20260924/ttd-71336672"
-    }
-  },
-  {
-    "id": "b52da6c8f4c1e14ad8b4",
-    "procNo": "115B006",
-    "title": "藥液分裝機用液體分裝轉換管組等2項二年期單價開口契約",
-    "agency": "臺中榮民總醫院",
-    "budget": 0,
-    "posted": "20260924",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20260924,
-      "filename": "ttd-71335726",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "藥液分裝機用液體分裝轉換管組等2項二年期單價開口契約",
-        "category": "財物類352-醫藥產品",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "115B006",
-      "unit_id": "3.32.81",
-      "unit_name": "臺中榮民總醫院",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.32.81",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.32.81&job_number=115B006",
-      "unit_url": "/index/unit/3.32.81",
-      "url": "/index/case/3.32.81/115B006/20260924/ttd-71335726"
     }
   },
   {
@@ -1229710,45 +1229226,6 @@
     }
   },
   {
-    "id": "1ac137d099cf739b5f9f",
-    "procNo": "ilvs11515",
-    "title": "115學年度高二校外實習參觀",
-    "agency": "國立宜蘭高級商業職業學校",
-    "budget": 0,
-    "posted": "20261002",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261002,
-      "filename": "ttd-71338774",
-      "brief": {
-        "type": "公開取得報價單或企劃書更正公告",
-        "title": "115學年度高二校外實習參觀",
-        "category": "勞務類74-支援及輔助運輸服務",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "ilvs11515",
-      "unit_id": "3.92.4.1",
-      "unit_name": "國立宜蘭高級商業職業學校",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.92.4.1",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.92.4.1&job_number=ilvs11515",
-      "unit_url": "/index/unit/3.92.4.1",
-      "url": "/index/case/3.92.4.1/ilvs11515/20261002/ttd-71338774"
-    }
-  },
-  {
     "id": "cdfc03cffceeaa930955",
     "procNo": "IL11511",
     "title": "宜蘭郵局投遞前郵件分揀",
@@ -1251138,45 +1250615,6 @@
     }
   },
   {
-    "id": "744f5ca2b2db702eecd2",
-    "procNo": "MOFA115147CS",
-    "title": "外交部研究設計會115至116年行政專案勞務委外案",
-    "agency": "外交部",
-    "budget": 0,
-    "posted": "20261002",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261002,
-      "filename": "ttd-71339971",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "外交部研究設計會115至116年行政專案勞務委外案",
-        "category": "勞務類911-政府行政服務",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "MOFA115147CS",
-      "unit_id": "3.3",
-      "unit_name": "外交部",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.3",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.3&job_number=MOFA115147CS",
-      "unit_url": "/index/unit/3.3",
-      "url": "/index/case/3.3/MOFA115147CS/20261002/ttd-71339971"
-    }
-  },
-  {
     "id": "b64d1d91bfac5415bc75",
     "procNo": "PS-3115040",
     "title": "「115學年度教務處充實學生學習歷程檔案行程交通與住宿」勞務採購案",
@@ -1251564,45 +1251002,6 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.80.5.92&job_number=115-10",
       "unit_url": "/index/unit/3.80.5.92",
       "url": "/index/case/3.80.5.92/115-10/20261002/ttd-71341944"
-    }
-  },
-  {
-    "id": "67a51e1e48a77f247cd6",
-    "procNo": "115-02-03",
-    "title": "115學年度八年級校外教學採購案",
-    "agency": "新北市立佳林國民中學",
-    "budget": 0,
-    "posted": "20261002",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261002,
-      "filename": "ttd-71339762",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "115學年度八年級校外教學採購案",
-        "category": "勞務類92-教育服務",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "115-02-03",
-      "unit_id": "3.82.6.13",
-      "unit_name": "新北市立佳林國民中學",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.82.6.13",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.82.6.13&job_number=115-02-03",
-      "unit_url": "/index/unit/3.82.6.13",
-      "url": "/index/case/3.82.6.13/115-02-03/20261002/ttd-71339762"
     }
   },
   {
@@ -1292120,45 +1291519,6 @@
     }
   },
   {
-    "id": "53b8791cd375eea2a866",
-    "procNo": "ghes1151005",
-    "title": "116年度三、四年級戶外教育委託服務",
-    "agency": "新北市新莊區光華國民小學",
-    "budget": 0,
-    "posted": "20261005",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261005,
-      "filename": "ttd-71342177",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "116年度三、四年級戶外教育委託服務",
-        "category": "勞務類74-支援及輔助運輸服務",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "ghes1151005",
-      "unit_id": "3.82.8.35",
-      "unit_name": "新北市新莊區光華國民小學",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.82.8.35",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.82.8.35&job_number=ghes1151005",
-      "unit_url": "/index/unit/3.82.8.35",
-      "url": "/index/case/3.82.8.35/ghes1151005/20261005/ttd-71342177"
-    }
-  },
-  {
     "id": "4da628c5c9de8f64e9d0",
     "procNo": "11509C050",
     "title": "新北市土城區公所116年度公有靈恩納骨塔三大法會儀式與祭品",
@@ -1292744,45 +1292104,6 @@
     }
   },
   {
-    "id": "754642d45040d51365d6",
-    "procNo": "115208A36",
-    "title": "居家睡眠檢測儀2台",
-    "agency": "國立陽明交通大學附設醫院",
-    "budget": 0,
-    "posted": "20261005",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261005,
-      "filename": "ttd-71342484",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "居家睡眠檢測儀2台",
-        "category": "財物類481-醫療,外科及矯形設備",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "115208A36",
-      "unit_id": "A.9.6M.1",
-      "unit_name": "國立陽明交通大學附設醫院",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.9.6M.1",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.9.6M.1&job_number=115208A36",
-      "unit_url": "/index/unit/A.9.6M.1",
-      "url": "/index/case/A.9.6M.1/115208A36/20261005/ttd-71342484"
-    }
-  },
-  {
     "id": "891a08fc541896b38fdf",
     "procNo": "T1151003",
     "title": "親水性人工水晶體",
@@ -1292819,45 +1292140,6 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.21.100.41&job_number=T1151003",
       "unit_url": "/index/unit/A.21.100.41",
       "url": "/index/case/A.21.100.41/T1151003/20261005/ttd-71342783"
-    }
-  },
-  {
-    "id": "855d8db3834ba3675e8e",
-    "procNo": "11502",
-    "title": "115年度新北市公立學校課桌椅汰換實施計畫",
-    "agency": "新北市立烏來國民中小學",
-    "budget": 0,
-    "posted": "20261005",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261005,
-      "filename": "ttd-71342288",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "115年度新北市公立學校課桌椅汰換實施計畫",
-        "category": "財物類31-木製品,軟木製品,草及編結材料產品",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "11502",
-      "unit_id": "3.82.6.16",
-      "unit_name": "新北市立烏來國民中小學",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.82.6.16",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.82.6.16&job_number=11502",
-      "unit_url": "/index/unit/3.82.6.16",
-      "url": "/index/case/3.82.6.16/11502/20261005/ttd-71342288"
     }
   },
   {
@@ -1333494,45 +1332776,6 @@
     }
   },
   {
-    "id": "d64bd7bbaa27152fc748",
-    "procNo": "115031",
-    "title": "115年度勤毅樓舞台投影機等財物採購案",
-    "agency": "國立頭城高級家事商業職業學校",
-    "budget": 0,
-    "posted": "20261006",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261006,
-      "filename": "ttd-71343855",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "115年度勤毅樓舞台投影機等財物採購案",
-        "category": "財物類452-計算機及其零件與配件",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "115031",
-      "unit_id": "3.92.5.48",
-      "unit_name": "國立頭城高級家事商業職業學校",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.92.5.48",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.92.5.48&job_number=115031",
-      "unit_url": "/index/unit/3.92.5.48",
-      "url": "/index/case/3.92.5.48/115031/20261006/ttd-71343855"
-    }
-  },
-  {
     "id": "3cb4e0ee0c0168856d8f",
     "procNo": "tmk11509",
     "title": "115學年度畢業紀念冊採購",
@@ -1334235,45 +1333478,6 @@
     }
   },
   {
-    "id": "5ff1b9b529f60f0d15c2",
-    "procNo": "TXG1151001",
-    "title": "115年臺中市調查處7人座偵防車採購案",
-    "agency": "法務部調查局臺中市調查處",
-    "budget": 0,
-    "posted": "20261006",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261006,
-      "filename": "ttd-71344189",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "115年臺中市調查處7人座偵防車採購案",
-        "category": "財物類491-機動車,拖車,半拖車;車輛機件",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "TXG1151001",
-      "unit_id": "A.11.1.5",
-      "unit_name": "法務部調查局臺中市調查處",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.11.1.5",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.11.1.5&job_number=TXG1151001",
-      "unit_url": "/index/unit/A.11.1.5",
-      "url": "/index/case/A.11.1.5/TXG1151001/20261006/ttd-71344189"
-    }
-  },
-  {
     "id": "35c5d37d3651eed3cfcc",
     "procNo": "C115112",
     "title": "拉伸試驗機",
@@ -1334349,45 +1333553,6 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.79.5.35&job_number=115063",
       "unit_url": "/index/unit/3.79.5.35",
       "url": "/index/case/3.79.5.35/115063/20261006/ttd-71332251"
-    }
-  },
-  {
-    "id": "aaa83371e27001470a41",
-    "procNo": "CKES11505",
-    "title": "115學年度老舊可調式課桌椅汰換更新採購案",
-    "agency": "臺中市東區成功國民小學",
-    "budget": 0,
-    "posted": "20261006",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261006,
-      "filename": "ttd-71343517",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "115學年度老舊可調式課桌椅汰換更新採購案",
-        "category": "財物類381-傢具",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "CKES11505",
-      "unit_id": "3.87.7.4",
-      "unit_name": "臺中市東區成功國民小學",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.87.7.4",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.87.7.4&job_number=CKES11505",
-      "unit_url": "/index/unit/3.87.7.4",
-      "url": "/index/case/3.87.7.4/CKES11505/20261006/ttd-71343517"
     }
   },
   {
@@ -1334968,44 +1334133,6 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.25.6&job_number=115026-2",
       "unit_url": "/index/unit/A.25.6",
       "url": "/index/case/A.25.6/115026-2/20261006/anaa-71299749"
-    }
-  },
-  {
-    "id": "27881ffdec6ff3e12021",
-    "procNo": "115-16",
-    "title": "中餐教室抽風機更新案",
-    "agency": "桃園市立中壢商業高級中等學校",
-    "budget": 0,
-    "posted": "20261006",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261006,
-      "filename": "anaa-71299952",
-      "brief": {
-        "type": "無法決標公告",
-        "title": "中餐教室抽風機更新案",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "115-16",
-      "unit_id": "3.80.5.31",
-      "unit_name": "桃園市立中壢商業高級中等學校",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.80.5.31",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.80.5.31&job_number=115-16",
-      "unit_url": "/index/unit/3.80.5.31",
-      "url": "/index/case/3.80.5.31/115-16/20261006/anaa-71299952"
     }
   },
   {
@@ -1339680,57 +1338807,6 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.55&job_number=AB1150006085",
       "unit_url": "/index/unit/3.76.55",
       "url": "/index/case/3.76.55/AB1150006085/20261007/aaa-71301370"
-    }
-  },
-  {
-    "id": "43f29d80bad7c643dc15",
-    "procNo": "1150901",
-    "title": "新北市原住民族權益手冊印製採購案",
-    "agency": "新北市政府原住民族行政局",
-    "budget": 0,
-    "posted": "20261007",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261007,
-      "filename": "aaa-71301845",
-      "brief": {
-        "type": "決標公告",
-        "title": "新北市原住民族權益手冊印製採購案",
-        "companies": {
-          "ids": [
-            "05703269"
-          ],
-          "names": [
-            "如寶興業股份有限公司"
-          ],
-          "id_key": {
-            "05703269": [
-              "投標廠商:投標廠商1:廠商代碼"
-            ]
-          },
-          "name_key": {
-            "如寶興業股份有限公司": [
-              "投標廠商:投標廠商1:廠商名稱",
-              "決標品項:第1品項:得標廠商1:得標廠商"
-            ]
-          }
-        }
-      },
-      "job_number": "1150901",
-      "unit_id": "3.82.34",
-      "unit_name": "新北市政府原住民族行政局",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.82.34",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.82.34&job_number=1150901",
-      "unit_url": "/index/unit/3.82.34",
-      "url": "/index/case/3.82.34/1150901/20261007/aaa-71301845"
     }
   },
   {
@@ -1382757,84 +1381833,6 @@
     }
   },
   {
-    "id": "0ae977a94c7fa2de8cda",
-    "procNo": "MVS115312",
-    "title": "115學年度國中技藝班專車租賃",
-    "agency": "國立民雄高級農工職業學校",
-    "budget": 0,
-    "posted": "20261007",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261007,
-      "filename": "ttd-71345829",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "115學年度國中技藝班專車租賃",
-        "category": "勞務類71-陸地運輸服務",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "MVS115312",
-      "unit_id": "3.92.4.65",
-      "unit_name": "國立民雄高級農工職業學校",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.92.4.65",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.92.4.65&job_number=MVS115312",
-      "unit_url": "/index/unit/3.92.4.65",
-      "url": "/index/case/3.92.4.65/MVS115312/20261007/ttd-71345829"
-    }
-  },
-  {
-    "id": "a57e35f820a116c88023",
-    "procNo": "115179DZ",
-    "title": "中央氣象署大氣垂直觀測場域供電系統採購案",
-    "agency": "交通部中央氣象署",
-    "budget": 0,
-    "posted": "20261007",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261007,
-      "filename": "ttd-71344604",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "中央氣象署大氣垂直觀測場域供電系統採購案",
-        "category": "財物類462-電力傳輸、控制設備及其零件",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "115179DZ",
-      "unit_id": "A.15.2",
-      "unit_name": "交通部中央氣象署",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.15.2",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.15.2&job_number=115179DZ",
-      "unit_url": "/index/unit/A.15.2",
-      "url": "/index/case/A.15.2/115179DZ/20261007/ttd-71344604"
-    }
-  },
-  {
     "id": "aeeb9d1b0e1a73df6485",
     "procNo": "1151066-TL",
     "title": "115年全國民俗運動匯演賽場地布置及賽務委託服務",
@@ -1382949,45 +1381947,6 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.80.60&job_number=115B0905",
       "unit_url": "/index/unit/3.80.60",
       "url": "/index/case/3.80.60/115B0905/20261007/ttd-71342293"
-    }
-  },
-  {
-    "id": "81a54e5e31b5aed2f00f",
-    "procNo": "1150117",
-    "title": "新竹縣竹東鎮立游泳池委外經營管理採購案",
-    "agency": "新竹縣竹東鎮公所",
-    "budget": 0,
-    "posted": "20261007",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261007,
-      "filename": "ttd-71345725",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "新竹縣竹東鎮立游泳池委外經營管理採購案",
-        "category": "勞務類96-娛樂,文化,體育服務",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "1150117",
-      "unit_id": "3.76.44.54",
-      "unit_name": "新竹縣竹東鎮公所",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.44.54",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.44.54&job_number=1150117",
-      "unit_url": "/index/unit/3.76.44.54",
-      "url": "/index/case/3.76.44.54/1150117/20261007/ttd-71345725"
     }
   },
   {
@@ -1383651,45 +1382610,6 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.9.26&job_number=115-AM-2-P39",
       "unit_url": "/index/unit/3.9.26",
       "url": "/index/case/3.9.26/115-AM-2-P39/20261007/ttd-71344926"
-    }
-  },
-  {
-    "id": "0780c0e10d1f09cd99d9",
-    "procNo": "N115431330135",
-    "title": "金門縣第25屆運動會音響設備及燈光等租用",
-    "agency": "金門縣採購招標所",
-    "budget": 0,
-    "posted": "20261007",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261007,
-      "filename": "ttd-71344257",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "金門縣第25屆運動會音響設備及燈光等租用",
-        "category": "勞務類96-娛樂,文化,體育服務",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "N115431330135",
-      "unit_id": "3.71.2.63",
-      "unit_name": "金門縣採購招標所",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.71.2.63",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.71.2.63&job_number=N115431330135",
-      "unit_url": "/index/unit/3.71.2.63",
-      "url": "/index/case/3.71.2.63/N115431330135/20261007/ttd-71344257"
     }
   },
   {
@@ -1439371,45 +1438291,6 @@
     }
   },
   {
-    "id": "190ef76aee5f70ed69b1",
-    "procNo": "115069",
-    "title": "115學年度擴大行政會議場所、住宿及膳食採購案",
-    "agency": "國立體育大學",
-    "budget": 0,
-    "posted": "20261008",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261008,
-      "filename": "ttd-71347206",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "115學年度擴大行政會議場所、住宿及膳食採購案",
-        "category": "勞務類641-旅館及其他住宿服務",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "115069",
-      "unit_id": "3.9.47",
-      "unit_name": "國立體育大學",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.9.47",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.9.47&job_number=115069",
-      "unit_url": "/index/unit/3.9.47",
-      "url": "/index/case/3.9.47/115069/20261008/ttd-71347206"
-    }
-  },
-  {
     "id": "792c271ad3dd86f01296",
     "procNo": "G115057",
     "title": "人工智慧運算伺服器一台",
@@ -1440931,45 +1439812,6 @@
     }
   },
   {
-    "id": "55053ccaab1c7b81b306",
-    "procNo": "115005",
-    "title": "115年高雄市各級學校領導人美感教育研習",
-    "agency": "高雄市三民區正興國民小學",
-    "budget": 0,
-    "posted": "20261008",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261008,
-      "filename": "ttd-71347062",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "115年高雄市各級學校領導人美感教育研習",
-        "category": "勞務類74-支援及輔助運輸服務",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "115005",
-      "unit_id": "3.97.7.30",
-      "unit_name": "高雄市三民區正興國民小學",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.97.7.30",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.97.7.30&job_number=115005",
-      "unit_url": "/index/unit/3.97.7.30",
-      "url": "/index/case/3.97.7.30/115005/20261008/ttd-71347062"
-    }
-  },
-  {
     "id": "8c7c2b775dc56ffb78f0",
     "procNo": "2C201150930-62",
     "title": "116年度標準公報印製(1/3)",
@@ -1441981,45 +1440823,6 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.87.7.33&job_number=CCES115-0930",
       "unit_url": "/index/unit/3.87.7.33",
       "url": "/index/case/3.87.7.33/CCES115-0930/20261008/ttd-71346786"
-    }
-  },
-  {
-    "id": "31233e15c0c6877956e2",
-    "procNo": "11511",
-    "title": "懿文館演藝廳音響設備更新",
-    "agency": "嘉義市立嘉義國民中學",
-    "budget": 0,
-    "posted": "20261008",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261008,
-      "filename": "ttd-71346115",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "懿文館演藝廳音響設備更新",
-        "category": "財物類47-收音機、電視,通訊器材及儀器",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "11511",
-      "unit_id": "3.76.60.96.1",
-      "unit_name": "嘉義市立嘉義國民中學",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.60.96.1",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.60.96.1&job_number=11511",
-      "unit_url": "/index/unit/3.76.60.96.1",
-      "url": "/index/case/3.76.60.96.1/11511/20261008/ttd-71346115"
     }
   },
   {
@@ -1484893,43 +1483696,26 @@
     "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
     "raw": {
       "date": 20261012,
-      "filename": "BDM-1-71302379",
+      "filename": "BDM-1-71302404",
       "brief": {
         "type": "決標公告",
         "title": "10mm多角度內視鏡等3項",
         "companies": {
           "ids": [
-            "86451812",
-            "28201598",
-            "89972718"
+            "86451812"
           ],
           "names": [
-            "惠興股份有限公司",
-            "景年國際有限公司",
-            "潔昇興業股份有限公司"
+            "惠興股份有限公司"
           ],
           "id_key": {
-            "28201598": [
-              "投標廠商:投標廠商2:廠商代碼"
-            ],
             "86451812": [
               "投標廠商:投標廠商1:廠商代碼"
-            ],
-            "89972718": [
-              "投標廠商:投標廠商3:廠商代碼"
             ]
           },
           "name_key": {
             "惠興股份有限公司": [
-              "投標廠商:投標廠商1:廠商名稱"
-            ],
-            "景年國際有限公司": [
-              "投標廠商:投標廠商2:廠商名稱",
+              "投標廠商:投標廠商1:廠商名稱",
               "決標品項:第1品項:得標廠商1:得標廠商"
-            ],
-            "潔昇興業股份有限公司": [
-              "投標廠商:投標廠商3:廠商名稱",
-              "決標品項:第2品項:得標廠商1:得標廠商"
             ]
           }
         }
@@ -1484940,7 +1483726,7 @@
       "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.5.24",
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.5.24&job_number=NG15007P058",
       "unit_url": "/index/unit/A.5.24",
-      "url": "/index/case/A.5.24/NG15007P058/20261012/BDM-1-71302379"
+      "url": "/index/case/A.5.24/NG15007P058/20261012/BDM-1-71302404"
     }
   },
   {
@@ -1726931,6 +1725717,1538 @@
     }
   },
   {
+    "id": "4a2da693531001d2a3db",
+    "procNo": "116Y009",
+    "title": "116年度採購及資材線上審核管理系統維護服務、功能擴增優化案",
+    "agency": "勞動部勞動力發展署桃竹苗分署",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309034",
+      "brief": {
+        "type": "決標公告",
+        "title": "116年度採購及資材線上審核管理系統維護服務、功能擴增優化案",
+        "companies": {
+          "ids": [
+            "80389550"
+          ],
+          "names": [
+            "達眾資訊股份有限公司"
+          ],
+          "id_key": {
+            "80389550": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "達眾資訊股份有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "116Y009",
+      "unit_id": "A.17.2.2",
+      "unit_name": "勞動部勞動力發展署桃竹苗分署",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.17.2.2",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.17.2.2&job_number=116Y009",
+      "unit_url": "/index/unit/A.17.2.2",
+      "url": "/index/case/A.17.2.2/116Y009/20261016/aaa-71309034"
+    }
+  },
+  {
+    "id": "a1dc16937acbd0500428",
+    "procNo": "MLH11502022",
+    "title": "衛材1批(項次1：免疫潛血糞便採集棒；預估數量25,000支、項次2：內視鏡逆行性膽胰管攝影術使用括約肌切開術電極；預估數量180EA)",
+    "agency": "衛生福利部苗栗醫院",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309152",
+      "brief": {
+        "type": "決標公告",
+        "title": "衛材1批(項次1：免疫潛血糞便採集棒；預估數量25,000支、項次2：內視鏡逆行性膽胰管攝影術使用括約肌切開術電極；預估數量180EA)",
+        "companies": {
+          "ids": [
+            "12540951"
+          ],
+          "names": [
+            "台灣達孚股份有限公司"
+          ],
+          "id_key": {
+            "12540951": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "台灣達孚股份有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "MLH11502022",
+      "unit_id": "A.21.100.34",
+      "unit_name": "衛生福利部苗栗醫院",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.21.100.34",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.21.100.34&job_number=MLH11502022",
+      "unit_url": "/index/unit/A.21.100.34",
+      "url": "/index/case/A.21.100.34/MLH11502022/20261016/aaa-71309152"
+    }
+  },
+  {
+    "id": "af4062a07e31750b5fa0",
+    "procNo": "115P21",
+    "title": "115年二期校舍冷氣機安裝勞務採購案",
+    "agency": "臺中市立西苑高級中學",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71308897",
+      "brief": {
+        "type": "決標公告",
+        "title": "115年二期校舍冷氣機安裝勞務採購案",
+        "companies": {
+          "ids": [
+            "24355488"
+          ],
+          "names": [
+            "新麗電器有限公司"
+          ],
+          "id_key": {
+            "24355488": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "新麗電器有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "115P21",
+      "unit_id": "3.87.4.91",
+      "unit_name": "臺中市立西苑高級中學",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.87.4.91",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.87.4.91&job_number=115P21",
+      "unit_url": "/index/unit/3.87.4.91",
+      "url": "/index/case/3.87.4.91/115P21/20261016/aaa-71308897"
+    }
+  },
+  {
+    "id": "b9859c5add29b884910b",
+    "procNo": "LP16043",
+    "title": "婦女泌尿一體成型膀胱鏡1支",
+    "agency": "高雄榮民總醫院",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "anaa-71309011",
+      "brief": {
+        "type": "無法決標公告",
+        "title": "婦女泌尿一體成型膀胱鏡1支",
+        "companies": {
+          "ids": [],
+          "names": [],
+          "id_key": {},
+          "name_key": {}
+        }
+      },
+      "job_number": "LP16043",
+      "unit_id": "3.32.82",
+      "unit_name": "高雄榮民總醫院",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.32.82",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.32.82&job_number=LP16043",
+      "unit_url": "/index/unit/3.32.82",
+      "url": "/index/case/3.32.82/LP16043/20261016/anaa-71309011"
+    }
+  },
+  {
+    "id": "024188ee9950f7a597d7",
+    "procNo": "30808",
+    "title": "115年度三件式休閒服",
+    "agency": "衛生福利部朴子醫院",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71308845",
+      "brief": {
+        "type": "決標公告",
+        "title": "115年度三件式休閒服",
+        "companies": {
+          "ids": [
+            "28137180",
+            "53275055",
+            "60773790"
+          ],
+          "names": [
+            "台灣鈞耀衣業有限公司",
+            "華得來專業制服有限公司",
+            "加享團體服裝有限公司"
+          ],
+          "id_key": {
+            "28137180": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ],
+            "53275055": [
+              "投標廠商:投標廠商2:廠商代碼"
+            ],
+            "60773790": [
+              "投標廠商:投標廠商3:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "加享團體服裝有限公司": [
+              "投標廠商:投標廠商3:廠商名稱",
+              "決標品項:第1品項:未得標廠商2:未得標廠商"
+            ],
+            "台灣鈞耀衣業有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ],
+            "華得來專業制服有限公司": [
+              "投標廠商:投標廠商2:廠商名稱",
+              "決標品項:第1品項:未得標廠商1:未得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "30808",
+      "unit_id": "A.21.100.40",
+      "unit_name": "衛生福利部朴子醫院",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.21.100.40",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.21.100.40&job_number=30808",
+      "unit_url": "/index/unit/A.21.100.40",
+      "url": "/index/case/A.21.100.40/30808/20261016/aaa-71308845"
+    }
+  },
+  {
+    "id": "d539a283799f65b70fdb",
+    "procNo": "11507",
+    "title": "A3 80g/m2白色及淺紫色、金黃色影印紙財物採購案",
+    "agency": "臺南市選舉委員會",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71285588",
+      "brief": {
+        "type": "更正決標公告",
+        "title": "A3 80g/m2白色及淺紫色、金黃色影印紙財物採購案",
+        "companies": {
+          "ids": [
+            "23075143"
+          ],
+          "names": [
+            "晧晟實業股份有限公司"
+          ],
+          "id_key": {
+            "23075143": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "晧晟實業股份有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "11507",
+      "unit_id": "3.49.100.3",
+      "unit_name": "臺南市選舉委員會",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.49.100.3",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.49.100.3&job_number=11507",
+      "unit_url": "/index/unit/3.49.100.3",
+      "url": "/index/case/3.49.100.3/11507/20261016/aaa-71285588"
+    }
+  },
+  {
+    "id": "61a4788e988bc0016fe0",
+    "procNo": "1151016",
+    "title": "臺南市永康區大橋國民小學115學年度一年級學生戶外教育勞務採購",
+    "agency": "臺南市永康區大橋國民小學",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309020",
+      "brief": {
+        "type": "決標公告",
+        "title": "臺南市永康區大橋國民小學115學年度一年級學生戶外教育勞務採購",
+        "companies": {
+          "ids": [
+            "54069498"
+          ],
+          "names": [
+            "宏勝旅行社有限公司"
+          ],
+          "id_key": {
+            "54069498": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "宏勝旅行社有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "1151016",
+      "unit_id": "3.95.8.97",
+      "unit_name": "臺南市永康區大橋國民小學",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.95.8.97",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.95.8.97&job_number=1151016",
+      "unit_url": "/index/unit/3.95.8.97",
+      "url": "/index/case/3.95.8.97/1151016/20261016/aaa-71309020"
+    }
+  },
+  {
+    "id": "108c1ba83b3854fb7507",
+    "procNo": "20260917-277-35",
+    "title": "臺灣銀行上海分行保安服務採購案",
+    "agency": "臺灣銀行股份有限公司",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309081",
+      "brief": {
+        "type": "決標公告",
+        "title": "臺灣銀行上海分行保安服務採購案",
+        "companies": {
+          "ids": [
+            "U0060486"
+          ],
+          "names": [
+            "上海市黃安保安服務有限公司"
+          ],
+          "id_key": {
+            "U0060486": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "上海市黃安保安服務有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "20260917-277-35",
+      "unit_id": "A.7.31.1",
+      "unit_name": "臺灣銀行股份有限公司",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.7.31.1",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.7.31.1&job_number=20260917-277-35",
+      "unit_url": "/index/unit/A.7.31.1",
+      "url": "/index/case/A.7.31.1/20260917-277-35/20261016/aaa-71309081"
+    }
+  },
+  {
+    "id": "4cb1dafefa030469e2ef",
+    "procNo": "20260917-277-34",
+    "title": "臺灣銀行上海分行臺籍員眷醫療保險採購案",
+    "agency": "臺灣銀行股份有限公司",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309055",
+      "brief": {
+        "type": "決標公告",
+        "title": "臺灣銀行上海分行臺籍員眷醫療保險採購案",
+        "companies": {
+          "ids": [
+            "U0059115"
+          ],
+          "names": [
+            "陸家嘴國泰人壽保險有限責任公司"
+          ],
+          "id_key": {
+            "U0059115": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "陸家嘴國泰人壽保險有限責任公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "20260917-277-34",
+      "unit_id": "A.7.31.1",
+      "unit_name": "臺灣銀行股份有限公司",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.7.31.1",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.7.31.1&job_number=20260917-277-34",
+      "unit_url": "/index/unit/A.7.31.1",
+      "url": "/index/case/A.7.31.1/20260917-277-34/20261016/aaa-71309055"
+    }
+  },
+  {
+    "id": "2ea7f992de6316eed494",
+    "procNo": "1153007",
+    "title": "115年度水肥抽取採購案",
+    "agency": "法務部矯正署臺南第二監獄",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71308893",
+      "brief": {
+        "type": "決標公告",
+        "title": "115年度水肥抽取採購案",
+        "companies": {
+          "ids": [
+            "06424188",
+            "80018354"
+          ],
+          "names": [
+            "一七衛生行",
+            "題宏實業有限公司"
+          ],
+          "id_key": {
+            "06424188": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ],
+            "80018354": [
+              "投標廠商:投標廠商2:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "一七衛生行": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:未得標廠商1:未得標廠商"
+            ],
+            "題宏實業有限公司": [
+              "投標廠商:投標廠商2:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "1153007",
+      "unit_id": "A.11.4.26",
+      "unit_name": "法務部矯正署臺南第二監獄",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.11.4.26",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.11.4.26&job_number=1153007",
+      "unit_url": "/index/unit/A.11.4.26",
+      "url": "/index/case/A.11.4.26/1153007/20261016/aaa-71308893"
+    }
+  },
+  {
+    "id": "cccc39e18199981411b3",
+    "procNo": "115129f",
+    "title": "「苗栗縣立圖書館多元子計畫3主題館藏採購」案",
+    "agency": "苗栗縣政府",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "anaa-71308932",
+      "brief": {
+        "type": "無法決標公告",
+        "title": "「苗栗縣立圖書館多元子計畫3主題館藏採購」案",
+        "companies": {
+          "ids": [],
+          "names": [],
+          "id_key": {},
+          "name_key": {}
+        }
+      },
+      "job_number": "115129f",
+      "unit_id": "3.76.45",
+      "unit_name": "苗栗縣政府",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.45",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.45&job_number=115129f",
+      "unit_url": "/index/unit/3.76.45",
+      "url": "/index/case/3.76.45/115129f/20261016/anaa-71308932"
+    }
+  },
+  {
+    "id": "368799c9556473b5a3e7",
+    "procNo": "1150902",
+    "title": "「新北市115年度原住民族學生語言競賽」勞務採購案",
+    "agency": "新北市政府原住民族行政局",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309193",
+      "brief": {
+        "type": "決標公告",
+        "title": "「新北市115年度原住民族學生語言競賽」勞務採購案",
+        "companies": {
+          "ids": [
+            "55991217"
+          ],
+          "names": [
+            "簍卡創意行銷有限公司"
+          ],
+          "id_key": {
+            "55991217": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "簍卡創意行銷有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "1150902",
+      "unit_id": "3.82.34",
+      "unit_name": "新北市政府原住民族行政局",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.82.34",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.82.34&job_number=1150902",
+      "unit_url": "/index/unit/3.82.34",
+      "url": "/index/case/3.82.34/1150902/20261016/aaa-71309193"
+    }
+  },
+  {
+    "id": "b52da6c8f4c1e14ad8b4",
+    "procNo": "115B006",
+    "title": "藥液分裝機用液體分裝轉換管組等2項二年期單價開口契約",
+    "agency": "臺中榮民總醫院",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "anaa-71308840",
+      "brief": {
+        "type": "無法決標公告",
+        "title": "藥液分裝機用液體分裝轉換管組等2項二年期單價開口契約",
+        "companies": {
+          "ids": [],
+          "names": [],
+          "id_key": {},
+          "name_key": {}
+        }
+      },
+      "job_number": "115B006",
+      "unit_id": "3.32.81",
+      "unit_name": "臺中榮民總醫院",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.32.81",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.32.81&job_number=115B006",
+      "unit_url": "/index/unit/3.32.81",
+      "url": "/index/case/3.32.81/115B006/20261016/anaa-71308840"
+    }
+  },
+  {
+    "id": "1ac137d099cf739b5f9f",
+    "procNo": "ilvs11515",
+    "title": "115學年度高二校外實習參觀",
+    "agency": "國立宜蘭高級商業職業學校",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309012",
+      "brief": {
+        "type": "決標公告",
+        "title": "115學年度高二校外實習參觀",
+        "companies": {
+          "ids": [
+            "24754598"
+          ],
+          "names": [
+            "創新旅行社有限公司宜蘭分公司"
+          ],
+          "id_key": {
+            "24754598": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "創新旅行社有限公司宜蘭分公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "ilvs11515",
+      "unit_id": "3.92.4.1",
+      "unit_name": "國立宜蘭高級商業職業學校",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.92.4.1",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.92.4.1&job_number=ilvs11515",
+      "unit_url": "/index/unit/3.92.4.1",
+      "url": "/index/case/3.92.4.1/ilvs11515/20261016/aaa-71309012"
+    }
+  },
+  {
+    "id": "744f5ca2b2db702eecd2",
+    "procNo": "MOFA115147CS",
+    "title": "外交部研究設計會115至116年行政專案勞務委外案",
+    "agency": "外交部",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "anaa-71309124",
+      "brief": {
+        "type": "無法決標公告",
+        "title": "外交部研究設計會115至116年行政專案勞務委外案",
+        "companies": {
+          "ids": [],
+          "names": [],
+          "id_key": {},
+          "name_key": {}
+        }
+      },
+      "job_number": "MOFA115147CS",
+      "unit_id": "3.3",
+      "unit_name": "外交部",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.3",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.3&job_number=MOFA115147CS",
+      "unit_url": "/index/unit/3.3",
+      "url": "/index/case/3.3/MOFA115147CS/20261016/anaa-71309124"
+    }
+  },
+  {
+    "id": "67a51e1e48a77f247cd6",
+    "procNo": "115-02-03",
+    "title": "115學年度八年級校外教學採購案",
+    "agency": "新北市立佳林國民中學",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309242",
+      "brief": {
+        "type": "決標公告",
+        "title": "115學年度八年級校外教學採購案",
+        "companies": {
+          "ids": [
+            "42776102",
+            "42700835"
+          ],
+          "names": [
+            "米豐旅行社有限公司",
+            "鴻擎旅行社有限公司"
+          ],
+          "id_key": {
+            "42700835": [
+              "投標廠商:投標廠商2:廠商代碼"
+            ],
+            "42776102": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "米豐旅行社有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:未得標廠商1:未得標廠商"
+            ],
+            "鴻擎旅行社有限公司": [
+              "投標廠商:投標廠商2:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "115-02-03",
+      "unit_id": "3.82.6.13",
+      "unit_name": "新北市立佳林國民中學",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.82.6.13",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.82.6.13&job_number=115-02-03",
+      "unit_url": "/index/unit/3.82.6.13",
+      "url": "/index/case/3.82.6.13/115-02-03/20261016/aaa-71309242"
+    }
+  },
+  {
+    "id": "53b8791cd375eea2a866",
+    "procNo": "ghes1151005",
+    "title": "116年度三、四年級戶外教育委託服務",
+    "agency": "新北市新莊區光華國民小學",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71308839",
+      "brief": {
+        "type": "決標公告",
+        "title": "116年度三、四年級戶外教育委託服務",
+        "companies": {
+          "ids": [
+            "80069682"
+          ],
+          "names": [
+            "益群旅行社有限公司"
+          ],
+          "id_key": {
+            "80069682": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "益群旅行社有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "ghes1151005",
+      "unit_id": "3.82.8.35",
+      "unit_name": "新北市新莊區光華國民小學",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.82.8.35",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.82.8.35&job_number=ghes1151005",
+      "unit_url": "/index/unit/3.82.8.35",
+      "url": "/index/case/3.82.8.35/ghes1151005/20261016/aaa-71308839"
+    }
+  },
+  {
+    "id": "754642d45040d51365d6",
+    "procNo": "115208A36",
+    "title": "居家睡眠檢測儀2台",
+    "agency": "國立陽明交通大學附設醫院",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71308841",
+      "brief": {
+        "type": "決標公告",
+        "title": "居家睡眠檢測儀2台",
+        "companies": {
+          "ids": [
+            "23161816"
+          ],
+          "names": [
+            "杏昌生技股份有限公司"
+          ],
+          "id_key": {
+            "23161816": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "杏昌生技股份有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "115208A36",
+      "unit_id": "A.9.6M.1",
+      "unit_name": "國立陽明交通大學附設醫院",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.9.6M.1",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.9.6M.1&job_number=115208A36",
+      "unit_url": "/index/unit/A.9.6M.1",
+      "url": "/index/case/A.9.6M.1/115208A36/20261016/aaa-71308841"
+    }
+  },
+  {
+    "id": "855d8db3834ba3675e8e",
+    "procNo": "11502",
+    "title": "115年度新北市公立學校課桌椅汰換實施計畫",
+    "agency": "新北市立烏來國民中小學",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "anaa-71308792",
+      "brief": {
+        "type": "無法決標公告",
+        "title": "115年度新北市公立學校課桌椅汰換實施計畫",
+        "companies": {
+          "ids": [],
+          "names": [],
+          "id_key": {},
+          "name_key": {}
+        }
+      },
+      "job_number": "11502",
+      "unit_id": "3.82.6.16",
+      "unit_name": "新北市立烏來國民中小學",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.82.6.16",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.82.6.16&job_number=11502",
+      "unit_url": "/index/unit/3.82.6.16",
+      "url": "/index/case/3.82.6.16/11502/20261016/anaa-71308792"
+    }
+  },
+  {
+    "id": "d64bd7bbaa27152fc748",
+    "procNo": "115031",
+    "title": "115年度勤毅樓舞台投影機等財物採購案",
+    "agency": "國立頭城高級家事商業職業學校",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309156",
+      "brief": {
+        "type": "決標公告",
+        "title": "115年度勤毅樓舞台投影機等財物採購案",
+        "companies": {
+          "ids": [
+            "13120176"
+          ],
+          "names": [
+            "仕揚科技股份有限公司"
+          ],
+          "id_key": {
+            "13120176": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "仕揚科技股份有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "115031",
+      "unit_id": "3.92.5.48",
+      "unit_name": "國立頭城高級家事商業職業學校",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.92.5.48",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.92.5.48&job_number=115031",
+      "unit_url": "/index/unit/3.92.5.48",
+      "url": "/index/case/3.92.5.48/115031/20261016/aaa-71309156"
+    }
+  },
+  {
+    "id": "5ff1b9b529f60f0d15c2",
+    "procNo": "TXG1151001",
+    "title": "115年臺中市調查處7人座偵防車採購案",
+    "agency": "法務部調查局臺中市調查處",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "anaa-71309186",
+      "brief": {
+        "type": "無法決標公告",
+        "title": "115年臺中市調查處7人座偵防車採購案",
+        "companies": {
+          "ids": [],
+          "names": [],
+          "id_key": {},
+          "name_key": {}
+        }
+      },
+      "job_number": "TXG1151001",
+      "unit_id": "A.11.1.5",
+      "unit_name": "法務部調查局臺中市調查處",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.11.1.5",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.11.1.5&job_number=TXG1151001",
+      "unit_url": "/index/unit/A.11.1.5",
+      "url": "/index/case/A.11.1.5/TXG1151001/20261016/anaa-71309186"
+    }
+  },
+  {
+    "id": "aaa83371e27001470a41",
+    "procNo": "CKES11505",
+    "title": "115學年度老舊可調式課桌椅汰換更新採購案",
+    "agency": "臺中市東區成功國民小學",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309021",
+      "brief": {
+        "type": "決標公告",
+        "title": "115學年度老舊可調式課桌椅汰換更新採購案",
+        "companies": {
+          "ids": [
+            "22982771"
+          ],
+          "names": [
+            "欣美實業股份有限公司"
+          ],
+          "id_key": {
+            "22982771": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "欣美實業股份有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "CKES11505",
+      "unit_id": "3.87.7.4",
+      "unit_name": "臺中市東區成功國民小學",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.87.7.4",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.87.7.4&job_number=CKES11505",
+      "unit_url": "/index/unit/3.87.7.4",
+      "url": "/index/case/3.87.7.4/CKES11505/20261016/aaa-71309021"
+    }
+  },
+  {
+    "id": "27881ffdec6ff3e12021",
+    "procNo": "115-16",
+    "title": "中餐教室抽風機更新案",
+    "agency": "桃園市立中壢商業高級中等學校",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309073",
+      "brief": {
+        "type": "決標公告",
+        "title": "中餐教室抽風機更新案",
+        "companies": {
+          "ids": [
+            "24705302",
+            "15912835",
+            "53766539",
+            "90556970"
+          ],
+          "names": [
+            "治和工程有限公司",
+            "華進不銹鋼金屬有限公司",
+            "辰明工程有限公司",
+            "優美靜電科技有限公司"
+          ],
+          "id_key": {
+            "15912835": [
+              "投標廠商:投標廠商2:廠商代碼"
+            ],
+            "24705302": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ],
+            "53766539": [
+              "投標廠商:投標廠商3:廠商代碼"
+            ],
+            "90556970": [
+              "投標廠商:投標廠商4:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "治和工程有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ],
+            "辰明工程有限公司": [
+              "投標廠商:投標廠商3:廠商名稱",
+              "決標品項:第1品項:未得標廠商2:未得標廠商"
+            ],
+            "優美靜電科技有限公司": [
+              "投標廠商:投標廠商4:廠商名稱",
+              "決標品項:第1品項:未得標廠商3:未得標廠商"
+            ],
+            "華進不銹鋼金屬有限公司": [
+              "投標廠商:投標廠商2:廠商名稱",
+              "決標品項:第1品項:未得標廠商1:未得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "115-16",
+      "unit_id": "3.80.5.31",
+      "unit_name": "桃園市立中壢商業高級中等學校",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.80.5.31",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.80.5.31&job_number=115-16",
+      "unit_url": "/index/unit/3.80.5.31",
+      "url": "/index/case/3.80.5.31/115-16/20261016/aaa-71309073"
+    }
+  },
+  {
+    "id": "43f29d80bad7c643dc15",
+    "procNo": "1150901",
+    "title": "新北市原住民族權益手冊印製採購案",
+    "agency": "新北市政府原住民族行政局",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71301845",
+      "brief": {
+        "type": "更正決標公告",
+        "title": "新北市原住民族權益手冊印製採購案",
+        "companies": {
+          "ids": [
+            "05703269",
+            "20092597",
+            "54836941"
+          ],
+          "names": [
+            "如寶興業股份有限公司",
+            "社團法人中華民國領航弱勢族群創業暨就業發展協會",
+            "斑馬線文庫有限公司"
+          ],
+          "id_key": {
+            "05703269": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ],
+            "20092597": [
+              "投標廠商:投標廠商2:廠商代碼"
+            ],
+            "54836941": [
+              "投標廠商:投標廠商3:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "斑馬線文庫有限公司": [
+              "投標廠商:投標廠商3:廠商名稱",
+              "決標品項:第1品項:未得標廠商2:未得標廠商"
+            ],
+            "如寶興業股份有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ],
+            "社團法人中華民國領航弱勢族群創業暨就業發展協會": [
+              "投標廠商:投標廠商2:廠商名稱",
+              "決標品項:第1品項:未得標廠商1:未得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "1150901",
+      "unit_id": "3.82.34",
+      "unit_name": "新北市政府原住民族行政局",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.82.34",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.82.34&job_number=1150901",
+      "unit_url": "/index/unit/3.82.34",
+      "url": "/index/case/3.82.34/1150901/20261016/aaa-71301845"
+    }
+  },
+  {
+    "id": "0ae977a94c7fa2de8cda",
+    "procNo": "MVS115312",
+    "title": "115學年度國中技藝班專車租賃",
+    "agency": "國立民雄高級農工職業學校",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309044",
+      "brief": {
+        "type": "決標公告",
+        "title": "115學年度國中技藝班專車租賃",
+        "companies": {
+          "ids": [
+            "65366207"
+          ],
+          "names": [
+            "聖豐遊覽汽車股份有限公司"
+          ],
+          "id_key": {
+            "65366207": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "聖豐遊覽汽車股份有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "MVS115312",
+      "unit_id": "3.92.4.65",
+      "unit_name": "國立民雄高級農工職業學校",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.92.4.65",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.92.4.65&job_number=MVS115312",
+      "unit_url": "/index/unit/3.92.4.65",
+      "url": "/index/case/3.92.4.65/MVS115312/20261016/aaa-71309044"
+    }
+  },
+  {
+    "id": "a57e35f820a116c88023",
+    "procNo": "115179DZ",
+    "title": "中央氣象署大氣垂直觀測場域供電系統採購案",
+    "agency": "交通部中央氣象署",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "anaa-71309133",
+      "brief": {
+        "type": "無法決標公告",
+        "title": "中央氣象署大氣垂直觀測場域供電系統採購案",
+        "companies": {
+          "ids": [],
+          "names": [],
+          "id_key": {},
+          "name_key": {}
+        }
+      },
+      "job_number": "115179DZ",
+      "unit_id": "A.15.2",
+      "unit_name": "交通部中央氣象署",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.15.2",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.15.2&job_number=115179DZ",
+      "unit_url": "/index/unit/A.15.2",
+      "url": "/index/case/A.15.2/115179DZ/20261016/anaa-71309133"
+    }
+  },
+  {
+    "id": "81a54e5e31b5aed2f00f",
+    "procNo": "1150117",
+    "title": "新竹縣竹東鎮立游泳池委外經營管理採購案",
+    "agency": "新竹縣竹東鎮公所",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "anaa-71308905",
+      "brief": {
+        "type": "無法決標公告",
+        "title": "新竹縣竹東鎮立游泳池委外經營管理採購案",
+        "companies": {
+          "ids": [],
+          "names": [],
+          "id_key": {},
+          "name_key": {}
+        }
+      },
+      "job_number": "1150117",
+      "unit_id": "3.76.44.54",
+      "unit_name": "新竹縣竹東鎮公所",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.44.54",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.44.54&job_number=1150117",
+      "unit_url": "/index/unit/3.76.44.54",
+      "url": "/index/case/3.76.44.54/1150117/20261016/anaa-71308905"
+    }
+  },
+  {
+    "id": "0780c0e10d1f09cd99d9",
+    "procNo": "N115431330135",
+    "title": "金門縣第25屆運動會音響設備及燈光等租用",
+    "agency": "金門縣採購招標所",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71308972",
+      "brief": {
+        "type": "決標公告",
+        "title": "金門縣第25屆運動會音響設備及燈光等租用",
+        "companies": {
+          "ids": [
+            "77303679"
+          ],
+          "names": [
+            "聲輝燈光音響企業社"
+          ],
+          "id_key": {
+            "77303679": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "聲輝燈光音響企業社": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "N115431330135",
+      "unit_id": "3.71.2.63",
+      "unit_name": "金門縣採購招標所",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.71.2.63",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.71.2.63&job_number=N115431330135",
+      "unit_url": "/index/unit/3.71.2.63",
+      "url": "/index/case/3.71.2.63/N115431330135/20261016/aaa-71308972"
+    }
+  },
+  {
+    "id": "190ef76aee5f70ed69b1",
+    "procNo": "115069",
+    "title": "115學年度擴大行政會議場所、住宿及膳食採購案",
+    "agency": "國立體育大學",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "anaa-71309051",
+      "brief": {
+        "type": "無法決標公告",
+        "title": "115學年度擴大行政會議場所、住宿及膳食採購案",
+        "companies": {
+          "ids": [],
+          "names": [],
+          "id_key": {},
+          "name_key": {}
+        }
+      },
+      "job_number": "115069",
+      "unit_id": "3.9.47",
+      "unit_name": "國立體育大學",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.9.47",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.9.47&job_number=115069",
+      "unit_url": "/index/unit/3.9.47",
+      "url": "/index/case/3.9.47/115069/20261016/anaa-71309051"
+    }
+  },
+  {
+    "id": "55053ccaab1c7b81b306",
+    "procNo": "115005",
+    "title": "115年高雄市各級學校領導人美感教育研習",
+    "agency": "高雄市三民區正興國民小學",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71308924",
+      "brief": {
+        "type": "決標公告",
+        "title": "115年高雄市各級學校領導人美感教育研習",
+        "companies": {
+          "ids": [
+            "89422572"
+          ],
+          "names": [
+            "美利達旅行社有限公司 (MERIDR TRAVEL SERVICE CO., LTD.)"
+          ],
+          "id_key": {
+            "89422572": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "美利達旅行社有限公司 (MERIDR TRAVEL SERVICE CO., LTD.)": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "115005",
+      "unit_id": "3.97.7.30",
+      "unit_name": "高雄市三民區正興國民小學",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.97.7.30",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.97.7.30&job_number=115005",
+      "unit_url": "/index/unit/3.97.7.30",
+      "url": "/index/case/3.97.7.30/115005/20261016/aaa-71308924"
+    }
+  },
+  {
+    "id": "31233e15c0c6877956e2",
+    "procNo": "11511",
+    "title": "懿文館演藝廳音響設備更新",
+    "agency": "嘉義市立嘉義國民中學",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "anaa-71308875",
+      "brief": {
+        "type": "無法決標公告",
+        "title": "懿文館演藝廳音響設備更新",
+        "companies": {
+          "ids": [],
+          "names": [],
+          "id_key": {},
+          "name_key": {}
+        }
+      },
+      "job_number": "11511",
+      "unit_id": "3.76.60.96.1",
+      "unit_name": "嘉義市立嘉義國民中學",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.60.96.1",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.60.96.1&job_number=11511",
+      "unit_url": "/index/unit/3.76.60.96.1",
+      "url": "/index/case/3.76.60.96.1/11511/20261016/anaa-71308875"
+    }
+  },
+  {
     "id": "bb039c8701e1fd8936a9",
     "procNo": "115-062-C1",
     "title": "職業傷病診治整合服務中心職業傷病個案管理師教育訓練教材編製計畫",
@@ -1786821,6 +1787139,423 @@
     }
   },
   {
+    "id": "8e828bfc96ba8770ed60",
+    "procNo": "HB115P72621",
+    "title": "停機坪高桅桿照明燈及航空障礙燈採購",
+    "agency": "交通部民用航空局花蓮航空站",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71308934",
+      "brief": {
+        "type": "決標公告",
+        "title": "停機坪高桅桿照明燈及航空障礙燈採購",
+        "companies": {
+          "ids": [
+            "54710963"
+          ],
+          "names": [
+            "麗柏國際有限公司"
+          ],
+          "id_key": {
+            "54710963": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "麗柏國際有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "HB115P72621",
+      "unit_id": "3.15.6.4",
+      "unit_name": "交通部民用航空局花蓮航空站",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.15.6.4",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.15.6.4&job_number=HB115P72621",
+      "unit_url": "/index/unit/3.15.6.4",
+      "url": "/index/case/3.15.6.4/HB115P72621/20261016/aaa-71308934"
+    }
+  },
+  {
+    "id": "8ec5e7d3210372457358",
+    "procNo": "115S026",
+    "title": "劇場專業燈具ACME AECO 15 LED電腦燈具採購案",
+    "agency": "國立臺北藝術大學",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309103",
+      "brief": {
+        "type": "決標公告",
+        "title": "劇場專業燈具ACME AECO 15 LED電腦燈具採購案",
+        "companies": {
+          "ids": [
+            "53963882",
+            "42626982"
+          ],
+          "names": [
+            "歆動音樂藝術有限公司",
+            "宜沛科技股份有限公司"
+          ],
+          "id_key": {
+            "42626982": [
+              "投標廠商:投標廠商2:廠商代碼"
+            ],
+            "53963882": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "宜沛科技股份有限公司": [
+              "投標廠商:投標廠商2:廠商名稱",
+              "決標品項:第1品項:未得標廠商1:未得標廠商"
+            ],
+            "歆動音樂藝術有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "115S026",
+      "unit_id": "3.92.32",
+      "unit_name": "國立臺北藝術大學",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.92.32",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.92.32&job_number=115S026",
+      "unit_url": "/index/unit/3.92.32",
+      "url": "/index/case/3.92.32/115S026/20261016/aaa-71309103"
+    }
+  },
+  {
+    "id": "878107ba6449c2dfa0a5",
+    "procNo": "JB15280P256",
+    "title": "底座等30項",
+    "agency": "國防部軍備局生產製造中心",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71308793",
+      "brief": {
+        "type": "決標公告",
+        "title": "底座等30項",
+        "companies": {
+          "ids": [
+            "09238906"
+          ],
+          "names": [
+            "合巧實業社"
+          ],
+          "id_key": {
+            "09238906": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "合巧實業社": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "JB15280P256",
+      "unit_id": "3.5.10.100",
+      "unit_name": "國防部軍備局生產製造中心",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.5.10.100",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.5.10.100&job_number=JB15280P256",
+      "unit_url": "/index/unit/3.5.10.100",
+      "url": "/index/case/3.5.10.100/JB15280P256/20261016/aaa-71308793"
+    }
+  },
+  {
+    "id": "549e7bbc8cdb685e6f14",
+    "procNo": "11405SB089-2",
+    "title": "114-115年中都濕地、愛河濕地、228紀念等公園綠地環境、植栽維護管理及緊急搶修工作(開口契約)-第2次後續擴充",
+    "agency": "高雄市政府工務局公園處",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309166",
+      "brief": {
+        "type": "決標公告",
+        "title": "114-115年中都濕地、愛河濕地、228紀念等公園綠地環境、植栽維護管理及緊急搶修工作(開口契約)-第2次後續擴充",
+        "companies": {
+          "ids": [
+            "28599458"
+          ],
+          "names": [
+            "禾晶企業有限公司"
+          ],
+          "id_key": {
+            "28599458": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "禾晶企業有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "11405SB089-2",
+      "unit_id": "3.97.11.5",
+      "unit_name": "高雄市政府工務局公園處",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.97.11.5",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.97.11.5&job_number=11405SB089-2",
+      "unit_url": "/index/unit/3.97.11.5",
+      "url": "/index/case/3.97.11.5/11405SB089-2/20261016/aaa-71309166"
+    }
+  },
+  {
+    "id": "39f021c992ccb6ed7569",
+    "procNo": "CHYI1150306",
+    "title": "自動繳費機與HIS整合介接暨慢性處方箋「藥來速」 QR Code功能增修案",
+    "agency": "衛生福利部嘉義醫院",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71308990",
+      "brief": {
+        "type": "決標公告",
+        "title": "自動繳費機與HIS整合介接暨慢性處方箋「藥來速」 QR Code功能增修案",
+        "companies": {
+          "ids": [
+            "27397172"
+          ],
+          "names": [
+            "大同醫護股份有限公司 (Tatung Medical & Healthcare Technologies Co., Ltd.)"
+          ],
+          "id_key": {
+            "27397172": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "大同醫護股份有限公司 (Tatung Medical & Healthcare Technologies Co., Ltd.)": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "CHYI1150306",
+      "unit_id": "A.21.100.39",
+      "unit_name": "衛生福利部嘉義醫院",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.21.100.39",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.21.100.39&job_number=CHYI1150306",
+      "unit_url": "/index/unit/A.21.100.39",
+      "url": "/index/case/A.21.100.39/CHYI1150306/20261016/aaa-71308990"
+    }
+  },
+  {
+    "id": "78dde32835a8cb8eed46",
+    "procNo": "1151005c07",
+    "title": "高雄市第5屆橋頭區里長選舉選舉票暨選舉公報編印",
+    "agency": "高雄市橋頭區公所",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309070",
+      "brief": {
+        "type": "決標公告",
+        "title": "高雄市第5屆橋頭區里長選舉選舉票暨選舉公報編印",
+        "companies": {
+          "ids": [
+            "75710170"
+          ],
+          "names": [
+            "德昌印刷廠股份有限公司"
+          ],
+          "id_key": {
+            "75710170": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "德昌印刷廠股份有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "1151005c07",
+      "unit_id": "3.97.72",
+      "unit_name": "高雄市橋頭區公所",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.97.72",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.97.72&job_number=1151005c07",
+      "unit_url": "/index/unit/3.97.72",
+      "url": "/index/case/3.97.72/1151005c07/20261016/aaa-71309070"
+    }
+  },
+  {
+    "id": "fdaa609d7a939325ca64",
+    "procNo": "115013",
+    "title": "115年度資訊設備周邊暨平板電腦採購",
+    "agency": "臺北市立實踐國民中學",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309003",
+      "brief": {
+        "type": "決標公告",
+        "title": "115年度資訊設備周邊暨平板電腦採購",
+        "companies": {
+          "ids": [
+            "23756990"
+          ],
+          "names": [
+            "極電資訊有限公司"
+          ],
+          "id_key": {
+            "23756990": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "極電資訊有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "115013",
+      "unit_id": "3.79.6.40",
+      "unit_name": "臺北市立實踐國民中學",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.79.6.40",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.79.6.40&job_number=115013",
+      "unit_url": "/index/unit/3.79.6.40",
+      "url": "/index/case/3.79.6.40/115013/20261016/aaa-71309003"
+    }
+  },
+  {
+    "id": "795819abf5f4542c4923",
+    "procNo": "4701500083",
+    "title": "隆恩D/S樂事製23kV C-GIS 乾燥劑更換",
+    "agency": "台灣電力股份有限公司台北供電區營運處",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309059",
+      "brief": {
+        "type": "決標公告",
+        "title": "隆恩D/S樂事製23kV C-GIS 乾燥劑更換",
+        "companies": {
+          "ids": [
+            "34211074"
+          ],
+          "names": [
+            "樂事綠能科技股份有限公司"
+          ],
+          "id_key": {
+            "34211074": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "樂事綠能科技股份有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "4701500083",
+      "unit_id": "3.13.31.90",
+      "unit_name": "台灣電力股份有限公司台北供電區營運處",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.13.31.90",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.13.31.90&job_number=4701500083",
+      "unit_url": "/index/unit/3.13.31.90",
+      "url": "/index/case/3.13.31.90/4701500083/20261016/aaa-71309059"
+    }
+  },
+  {
     "id": "574fb2bc49908281fc0d",
     "procNo": "115-B04",
     "title": "臺中市太平區頭汴、聖和里市民活動中心音響、投影機等多媒體設備採購案",
@@ -1814307,49 +1815042,6 @@
     }
   },
   {
-    "id": "102333a0545d1f0da288",
-    "procNo": "115A174",
-    "title": "澤仁里溪口部落活動廣場照明改善工程",
-    "agency": "桃園市復興區公所",
-    "budget": 0,
-    "posted": "20260924",
-    "deadline": "",
-    "type": "活動策展",
-    "fit": 43,
-    "decision": "排除",
-    "positiveSignals": [
-      "活動"
-    ],
-    "negativeSignals": [
-      "工程"
-    ],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20260924,
-      "filename": "ttd-71336285",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "澤仁里溪口部落活動廣場照明改善工程",
-        "category": "工程類5164-電力工程",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "115A174",
-      "unit_id": "3.80.63",
-      "unit_name": "桃園市復興區公所",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.80.63",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.80.63&job_number=115A174",
-      "unit_url": "/index/unit/3.80.63",
-      "url": "/index/case/3.80.63/115A174/20260924/ttd-71336285"
-    }
-  },
-  {
     "id": "11bacd117d6b5c0434b9",
     "procNo": "TC115C158",
     "title": "臺南都會公園謬思湖木棧道鋪面汰換工程設計及監造案",
@@ -1833722,6 +1834414,61 @@
     }
   },
   {
+    "id": "102333a0545d1f0da288",
+    "procNo": "115A174",
+    "title": "澤仁里溪口部落活動廣場照明改善工程",
+    "agency": "桃園市復興區公所",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "活動策展",
+    "fit": 43,
+    "decision": "排除",
+    "positiveSignals": [
+      "活動"
+    ],
+    "negativeSignals": [
+      "工程"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71308791",
+      "brief": {
+        "type": "決標公告",
+        "title": "澤仁里溪口部落活動廣場照明改善工程",
+        "companies": {
+          "ids": [
+            "87715236"
+          ],
+          "names": [
+            "宏洲土木包工業"
+          ],
+          "id_key": {
+            "87715236": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "宏洲土木包工業": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "115A174",
+      "unit_id": "3.80.63",
+      "unit_name": "桃園市復興區公所",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.80.63",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.80.63&job_number=115A174",
+      "unit_url": "/index/unit/3.80.63",
+      "url": "/index/case/3.80.63/115A174/20261016/aaa-71308791"
+    }
+  },
+  {
     "id": "ae172c8f5ca68d43d310",
     "procNo": "1150821-1",
     "title": "新北市三重區富貴段青年社會住宅新建統包工程",
@@ -1835353,6 +1836100,61 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.92.6.16&job_number=1150907",
       "unit_url": "/index/unit/3.92.6.16",
       "url": "/index/case/3.92.6.16/1150907/20261016/ttd-71355393"
+    }
+  },
+  {
+    "id": "388dd6a52d0c7d059c11",
+    "procNo": "11504",
+    "title": "115年活動中心投影設備採購",
+    "agency": "高雄市苓雅區苓洲國民小學",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "活動策展",
+    "fit": 43,
+    "decision": "排除",
+    "positiveSignals": [
+      "活動"
+    ],
+    "negativeSignals": [
+      "設備採購"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309018",
+      "brief": {
+        "type": "決標公告",
+        "title": "115年活動中心投影設備採購",
+        "companies": {
+          "ids": [
+            "80421756"
+          ],
+          "names": [
+            "喬太視聽科技有限公司"
+          ],
+          "id_key": {
+            "80421756": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "喬太視聽科技有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "11504",
+      "unit_id": "3.97.7.13",
+      "unit_name": "高雄市苓雅區苓洲國民小學",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.97.7.13",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.97.7.13&job_number=11504",
+      "unit_url": "/index/unit/3.97.7.13",
+      "url": "/index/case/3.97.7.13/11504/20261016/aaa-71309018"
     }
   },
   {
@@ -2010574,47 +2011376,6 @@
     }
   },
   {
-    "id": "51f8ea0776bafedd5929",
-    "procNo": "115090201",
-    "title": "(115年6月豪雨)公共設施排水護岸災後復建工程(共5案)委託設計監造技術服務",
-    "agency": "屏東縣內埔鄉公所",
-    "budget": 0,
-    "posted": "20260903",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 38,
-    "decision": "排除",
-    "positiveSignals": [],
-    "negativeSignals": [
-      "工程"
-    ],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20260903,
-      "filename": "ttd-71316921",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "(115年6月豪雨)公共設施排水護岸災後復建工程(共5案)委託設計監造技術服務",
-        "category": "勞務類8672-工程服務",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "115090201",
-      "unit_id": "3.76.53.63",
-      "unit_name": "屏東縣內埔鄉公所",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.53.63",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.53.63&job_number=115090201",
-      "unit_url": "/index/unit/3.76.53.63",
-      "url": "/index/case/3.76.53.63/115090201/20260903/ttd-71316921"
-    }
-  },
-  {
     "id": "dec9d0e65d817e479d01",
     "procNo": "115044",
     "title": "115年水堀頭遺址結構加固清潔規劃勞務採購案",
@@ -2051985,47 +2052746,6 @@
     }
   },
   {
-    "id": "1e3b5be4b5971747f7d1",
-    "procNo": "XFP-11508003",
-    "title": "115年度教學大樓北側水溝加蓋工程",
-    "agency": "高雄市六龜區新發國民小學",
-    "budget": 0,
-    "posted": "20260909",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 38,
-    "decision": "排除",
-    "positiveSignals": [],
-    "negativeSignals": [
-      "工程"
-    ],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20260909,
-      "filename": "ttd-71322313",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "115年度教學大樓北側水溝加蓋工程",
-        "category": "工程類5139-其他土木工程",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "XFP-11508003",
-      "unit_id": "3.97.8.77",
-      "unit_name": "高雄市六龜區新發國民小學",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.97.8.77",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.97.8.77&job_number=XFP-11508003",
-      "unit_url": "/index/unit/3.97.8.77",
-      "url": "/index/case/3.97.8.77/XFP-11508003/20260909/ttd-71322313"
-    }
-  },
-  {
     "id": "2fa337c71f11aadb65aa",
     "procNo": "115-088-007",
     "title": "臺灣土地銀行日本東京分行電話系統設備、電腦不斷電設備採購",
@@ -2067629,47 +2068349,6 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.95.58&job_number=1150908",
       "unit_url": "/index/unit/3.95.58",
       "url": "/index/case/3.95.58/1150908/20260909/ttd-71322374"
-    }
-  },
-  {
-    "id": "1c358d716381549b38c9",
-    "procNo": "115-C-05",
-    "title": "金山中繼市場電表汰換工程",
-    "agency": "新北市政府市場處",
-    "budget": 0,
-    "posted": "20260909",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 38,
-    "decision": "排除",
-    "positiveSignals": [],
-    "negativeSignals": [
-      "工程"
-    ],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20260909,
-      "filename": "ttd-71323204",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "金山中繼市場電表汰換工程",
-        "category": "工程類5164-電力工程",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "115-C-05",
-      "unit_id": "3.82.17.1",
-      "unit_name": "新北市政府市場處",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.82.17.1",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.82.17.1&job_number=115-C-05",
-      "unit_url": "/index/unit/3.82.17.1",
-      "url": "/index/case/3.82.17.1/115-C-05/20260909/ttd-71323204"
     }
   },
   {
@@ -2174918,47 +2175597,6 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.87.64&job_number=A115-24",
       "unit_url": "/index/unit/3.87.64",
       "url": "/index/case/3.87.64/A115-24/20260918/ttd-71331069"
-    }
-  },
-  {
-    "id": "533ce2de437ce2246014",
-    "procNo": "115Y-15",
-    "title": "集塵過濾器等6項教學設備採購",
-    "agency": "桃園市立龍興國民中學",
-    "budget": 0,
-    "posted": "20260918",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 38,
-    "decision": "排除",
-    "positiveSignals": [],
-    "negativeSignals": [
-      "設備採購"
-    ],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20260918,
-      "filename": "ttd-71330692",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "集塵過濾器等6項教學設備採購",
-        "category": "財物類442-工具機,其零件及附件",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "115Y-15",
-      "unit_id": "3.80.5.69",
-      "unit_name": "桃園市立龍興國民中學",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.80.5.69",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.80.5.69&job_number=115Y-15",
-      "unit_url": "/index/unit/3.80.5.69",
-      "url": "/index/case/3.80.5.69/115Y-15/20260918/ttd-71330692"
     }
   },
   {
@@ -2323325,47 +2323963,6 @@
     }
   },
   {
-    "id": "943b6d4c18225774b37b",
-    "procNo": "115015",
-    "title": "嘉義市立蘭潭國民中學115年度新建足球運動場工程委託規劃設計監造技術服務",
-    "agency": "嘉義市立蘭潭國民中學",
-    "budget": 0,
-    "posted": "20261002",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 38,
-    "decision": "排除",
-    "positiveSignals": [],
-    "negativeSignals": [
-      "工程"
-    ],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261002,
-      "filename": "ttd-71341699",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "嘉義市立蘭潭國民中學115年度新建足球運動場工程委託規劃設計監造技術服務",
-        "category": "勞務類8672-工程服務",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "115015",
-      "unit_id": "3.76.60.96.2",
-      "unit_name": "嘉義市立蘭潭國民中學",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.60.96.2",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.60.96.2&job_number=115015",
-      "unit_url": "/index/unit/3.76.60.96.2",
-      "url": "/index/case/3.76.60.96.2/115015/20261002/ttd-71341699"
-    }
-  },
-  {
     "id": "2da8ca3287682d16ece1",
     "procNo": "115-P001",
     "title": "115年圖書館演藝廳屋頂防水工程",
@@ -2344102,47 +2344699,6 @@
     }
   },
   {
-    "id": "f265b535d58ef2921583",
-    "procNo": "TA1151014",
-    "title": "115年度頭城鎮清潔隊人員工作制服財物採購案",
-    "agency": "宜蘭縣頭城鎮公所",
-    "budget": 0,
-    "posted": "20261005",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 38,
-    "decision": "排除",
-    "positiveSignals": [],
-    "negativeSignals": [
-      "清潔"
-    ],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261005,
-      "filename": "ttd-71342653",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "115年度頭城鎮清潔隊人員工作制服財物採購案",
-        "category": "財物類281-編織或鉤針織品",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "TA1151014",
-      "unit_id": "3.76.42.54",
-      "unit_name": "宜蘭縣頭城鎮公所",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.42.54",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.42.54&job_number=TA1151014",
-      "unit_url": "/index/unit/3.76.42.54",
-      "url": "/index/case/3.76.42.54/TA1151014/20261005/ttd-71342653"
-    }
-  },
-  {
     "id": "6e116ffc3baa10557e96",
     "procNo": "HTPS1150912",
     "title": "115年度海東國小甲棟教學大樓（西側）2至5樓老舊廁所整修工程規劃設計監造勞務採購案",
@@ -2344181,46 +2344737,6 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.95.7.18&job_number=HTPS1150912",
       "unit_url": "/index/unit/3.95.7.18",
       "url": "/index/case/3.95.7.18/HTPS1150912/20261005/ttd-71343182"
-    }
-  },
-  {
-    "id": "e5611bffc4b925943938",
-    "procNo": "115A093",
-    "title": "臺南市南化區菁埔寮段600-2號旁擋土牆改改善工程",
-    "agency": "臺南市南化區公所",
-    "budget": 0,
-    "posted": "20261005",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 38,
-    "decision": "排除",
-    "positiveSignals": [],
-    "negativeSignals": [
-      "工程"
-    ],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261005,
-      "filename": "anaa-71298575",
-      "brief": {
-        "type": "無法決標公告",
-        "title": "臺南市南化區菁埔寮段600-2號旁擋土牆改改善工程",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "115A093",
-      "unit_id": "3.95.81",
-      "unit_name": "臺南市南化區公所",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.95.81",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.95.81&job_number=115A093",
-      "unit_url": "/index/unit/3.95.81",
-      "url": "/index/case/3.95.81/115A093/20261005/anaa-71298575"
     }
   },
   {
@@ -2346291,46 +2346807,6 @@
     }
   },
   {
-    "id": "b0ff8cb1344b5037f399",
-    "procNo": "115A088",
-    "title": "南化區小崙里橋仔內(南化段449等地號)農路改善工程",
-    "agency": "臺南市南化區公所",
-    "budget": 0,
-    "posted": "20261006",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 38,
-    "decision": "排除",
-    "positiveSignals": [],
-    "negativeSignals": [
-      "工程"
-    ],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261006,
-      "filename": "anaa-71299612",
-      "brief": {
-        "type": "無法決標公告",
-        "title": "南化區小崙里橋仔內(南化段449等地號)農路改善工程",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "115A088",
-      "unit_id": "3.95.81",
-      "unit_name": "臺南市南化區公所",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.95.81",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.95.81&job_number=115A088",
-      "unit_url": "/index/unit/3.95.81",
-      "url": "/index/case/3.95.81/115A088/20261006/anaa-71299612"
-    }
-  },
-  {
     "id": "89b67317e8eb942d75c3",
     "procNo": "1150929",
     "title": "115年度校舍油漆粉刷工程",
@@ -2346619,46 +2347095,6 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.48.97.18&job_number=115-07-09-A",
       "unit_url": "/index/unit/3.76.48.97.18",
       "url": "/index/case/3.76.48.97.18/115-07-09-A/20261006/aaa-71299949"
-    }
-  },
-  {
-    "id": "0fc8e97d4e63d3fc4119",
-    "procNo": "115A090",
-    "title": "南化區南化里菁埔寮段17-6地號旁農路及野溪護岸改善工程",
-    "agency": "臺南市南化區公所",
-    "budget": 0,
-    "posted": "20261006",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 38,
-    "decision": "排除",
-    "positiveSignals": [],
-    "negativeSignals": [
-      "工程"
-    ],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261006,
-      "filename": "anaa-71299613",
-      "brief": {
-        "type": "無法決標公告",
-        "title": "南化區南化里菁埔寮段17-6地號旁農路及野溪護岸改善工程",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "115A090",
-      "unit_id": "3.95.81",
-      "unit_name": "臺南市南化區公所",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.95.81",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.95.81&job_number=115A090",
-      "unit_url": "/index/unit/3.95.81",
-      "url": "/index/case/3.95.81/115A090/20261006/anaa-71299613"
     }
   },
   {
@@ -2365666,47 +2366102,6 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.82.7.64&job_number=115005-MDPS",
       "unit_url": "/index/unit/3.82.7.64",
       "url": "/index/case/3.82.7.64/115005-MDPS/20261007/TIQ-1-71129159"
-    }
-  },
-  {
-    "id": "e97e823f663228bc27de",
-    "procNo": "sbes1150924",
-    "title": "新寶國小舊教室地坪整修工程",
-    "agency": "彰化縣芳苑鄉新寶國民小學",
-    "budget": 0,
-    "posted": "20261007",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 38,
-    "decision": "排除",
-    "positiveSignals": [],
-    "negativeSignals": [
-      "工程"
-    ],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261007,
-      "filename": "ttd-71344621",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "新寶國小舊教室地坪整修工程",
-        "category": "工程類5113-基地整建及清理工程",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "sbes1150924",
-      "unit_id": "3.76.47.98.65",
-      "unit_name": "彰化縣芳苑鄉新寶國民小學",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.47.98.65",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.47.98.65&job_number=sbes1150924",
-      "unit_url": "/index/unit/3.76.47.98.65",
-      "url": "/index/case/3.76.47.98.65/sbes1150924/20261007/ttd-71344621"
     }
   },
   {
@@ -2390323,47 +2390718,6 @@
     }
   },
   {
-    "id": "4673740ca1bd404b3688",
-    "procNo": "TH115001",
-    "title": "活力樓前庭排水改善工程",
-    "agency": "桃園市大溪區田心國民小學",
-    "budget": 0,
-    "posted": "20261007",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 38,
-    "decision": "排除",
-    "positiveSignals": [],
-    "negativeSignals": [
-      "工程"
-    ],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261007,
-      "filename": "ttd-71344605",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "活力樓前庭排水改善工程",
-        "category": "工程類5162-水管及排水設施鋪設工程",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "TH115001",
-      "unit_id": "3.80.8.10",
-      "unit_name": "桃園市大溪區田心國民小學",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.80.8.10",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.80.8.10&job_number=TH115001",
-      "unit_url": "/index/unit/3.80.8.10",
-      "url": "/index/case/3.80.8.10/TH115001/20261007/ttd-71344605"
-    }
-  },
-  {
     "id": "67cae6580b271227f637",
     "procNo": "115002",
     "title": "新北市政府警察局少年警察隊辦理少年輔導委員會新店分會室內裝修工程",
@@ -2393951,47 +2394305,6 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.19.1.4&job_number=11509V",
       "unit_url": "/index/unit/A.19.1.4",
       "url": "/index/case/A.19.1.4/11509V/20261008/ttd-71346113"
-    }
-  },
-  {
-    "id": "ac06ded8bea828f0eb38",
-    "procNo": "lsps11502",
-    "title": "嘉義縣龍山國小行政教學樓老舊廁所整修工程",
-    "agency": "嘉義縣竹崎鄉龍山國民小學",
-    "budget": 0,
-    "posted": "20261008",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 38,
-    "decision": "排除",
-    "positiveSignals": [],
-    "negativeSignals": [
-      "工程"
-    ],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261008,
-      "filename": "ttd-71346955",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "嘉義縣龍山國小行政教學樓老舊廁所整修工程",
-        "category": "工程類5179-其他裝修工程",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "lsps11502",
-      "unit_id": "3.76.50.98.2",
-      "unit_name": "嘉義縣竹崎鄉龍山國民小學",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.50.98.2",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.50.98.2&job_number=lsps11502",
-      "unit_url": "/index/unit/3.76.50.98.2",
-      "url": "/index/case/3.76.50.98.2/lsps11502/20261008/ttd-71346955"
     }
   },
   {
@@ -2407903,47 +2408216,6 @@
     }
   },
   {
-    "id": "f69e3ef47bea7e180254",
-    "procNo": "1150929",
-    "title": "115年教師宿舍電熱水器與空調設備更新及增設採購案",
-    "agency": "宜蘭縣立南澳高級中學",
-    "budget": 0,
-    "posted": "20261008",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 38,
-    "decision": "排除",
-    "positiveSignals": [],
-    "negativeSignals": [
-      "空調"
-    ],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261008,
-      "filename": "ttd-71340222",
-      "brief": {
-        "type": "公開取得報價單或企劃書更正公告",
-        "title": "115年教師宿舍電熱水器與空調設備更新及增設採購案",
-        "category": "財物類448-家用電器及其零件",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "1150929",
-      "unit_id": "3.76.42.95.21",
-      "unit_name": "宜蘭縣立南澳高級中學",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.42.95.21",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.42.95.21&job_number=1150929",
-      "unit_url": "/index/unit/3.76.42.95.21",
-      "url": "/index/case/3.76.42.95.21/1150929/20261008/ttd-71340222"
-    }
-  },
-  {
     "id": "f68f0c982e84c78b39c9",
     "procNo": "114-A26-2",
     "title": "嘉蘭村環境改善工程",
@@ -2419925,47 +2420197,6 @@
     }
   },
   {
-    "id": "9c5989721975025fa1c8",
-    "procNo": "11511",
-    "title": "中興國小115年度校門南側圍牆改建工程",
-    "agency": "澎湖縣馬公市中興國民小學",
-    "budget": 0,
-    "posted": "20261008",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 38,
-    "decision": "排除",
-    "positiveSignals": [],
-    "negativeSignals": [
-      "工程"
-    ],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261008,
-      "filename": "TIQ-11-71131353",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "中興國小115年度校門南側圍牆改建工程",
-        "category": "工程類5127-教育用建築工程",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "11511",
-      "unit_id": "3.76.56.97.3",
-      "unit_name": "澎湖縣馬公市中興國民小學",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.56.97.3",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.56.97.3&job_number=11511",
-      "unit_url": "/index/unit/3.76.56.97.3",
-      "url": "/index/case/3.76.56.97.3/11511/20261008/TIQ-11-71131353"
-    }
-  },
-  {
     "id": "14f2d13d3e3cab5b20f2",
     "procNo": "TNHP115354",
     "title": "空調箱濾網及高效率濾網更換案",
@@ -2420207,47 +2420438,6 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.49.97.79&job_number=C1151007",
       "unit_url": "/index/unit/3.76.49.97.79",
       "url": "/index/case/3.76.49.97.79/C1151007/20261008/ttd-71345907"
-    }
-  },
-  {
-    "id": "7875935ba65beafdb63b",
-    "procNo": "115JH003",
-    "title": "水源村4工區擋土牆加高改善工程",
-    "agency": "花蓮縣秀林鄉公所",
-    "budget": 0,
-    "posted": "20261008",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 38,
-    "decision": "排除",
-    "positiveSignals": [],
-    "negativeSignals": [
-      "工程"
-    ],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261008,
-      "filename": "ttd-71346404",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "水源村4工區擋土牆加高改善工程",
-        "category": "工程類5139-其他土木工程",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "115JH003",
-      "unit_id": "3.76.55.61",
-      "unit_name": "花蓮縣秀林鄉公所",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.55.61",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.55.61&job_number=115JH003",
-      "unit_url": "/index/unit/3.76.55.61",
-      "url": "/index/case/3.76.55.61/115JH003/20261008/ttd-71346404"
     }
   },
   {
@@ -2420494,88 +2420684,6 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.57.85&job_number=115EKT-21",
       "unit_url": "/index/unit/3.76.57.85",
       "url": "/index/case/3.76.57.85/115EKT-21/20261008/ttd-71346653"
-    }
-  },
-  {
-    "id": "eb2d31cefc159450afc1",
-    "procNo": "1151002",
-    "title": "幼兒園入口及雨遮改善工程",
-    "agency": "桃園市中壢區中正國民小學",
-    "budget": 0,
-    "posted": "20261008",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 38,
-    "decision": "排除",
-    "positiveSignals": [],
-    "negativeSignals": [
-      "工程"
-    ],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261008,
-      "filename": "ttd-71346560",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "幼兒園入口及雨遮改善工程",
-        "category": "工程類5127-教育用建築工程",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "1151002",
-      "unit_id": "3.80.7.36",
-      "unit_name": "桃園市中壢區中正國民小學",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.80.7.36",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.80.7.36&job_number=1151002",
-      "unit_url": "/index/unit/3.80.7.36",
-      "url": "/index/case/3.80.7.36/1151002/20261008/ttd-71346560"
-    }
-  },
-  {
-    "id": "e76f30f148955fe0158a",
-    "procNo": "115TFDA-DF-005",
-    "title": "管制藥品製藥工廠固型製劑場域泡殼包裝機及打錠機遷移工程委託設計監造技術服務",
-    "agency": "衛生福利部食品藥物管理署",
-    "budget": 0,
-    "posted": "20261008",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 38,
-    "decision": "排除",
-    "positiveSignals": [],
-    "negativeSignals": [
-      "工程"
-    ],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261008,
-      "filename": "ttd-71347117",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "管制藥品製藥工廠固型製劑場域泡殼包裝機及打錠機遷移工程委託設計監造技術服務",
-        "category": "勞務類8671-建築服務",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "115TFDA-DF-005",
-      "unit_id": "A.21.2",
-      "unit_name": "衛生福利部食品藥物管理署",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.21.2",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.21.2&job_number=115TFDA-DF-005",
-      "unit_url": "/index/unit/A.21.2",
-      "url": "/index/case/A.21.2/115TFDA-DF-005/20261008/ttd-71347117"
     }
   },
   {
@@ -2547158,6 +2547266,830 @@
     }
   },
   {
+    "id": "51f8ea0776bafedd5929",
+    "procNo": "115090201",
+    "title": "(115年6月豪雨)公共設施排水護岸災後復建工程(共5案)委託設計監造技術服務",
+    "agency": "屏東縣內埔鄉公所",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 38,
+    "decision": "排除",
+    "positiveSignals": [],
+    "negativeSignals": [
+      "工程"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71308985",
+      "brief": {
+        "type": "決標公告",
+        "title": "(115年6月豪雨)公共設施排水護岸災後復建工程(共5案)委託設計監造技術服務",
+        "companies": {
+          "ids": [
+            "53036766"
+          ],
+          "names": [
+            "協昌工程顧問有限公司"
+          ],
+          "id_key": {
+            "53036766": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "協昌工程顧問有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "115090201",
+      "unit_id": "3.76.53.63",
+      "unit_name": "屏東縣內埔鄉公所",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.53.63",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.53.63&job_number=115090201",
+      "unit_url": "/index/unit/3.76.53.63",
+      "url": "/index/case/3.76.53.63/115090201/20261016/aaa-71308985"
+    }
+  },
+  {
+    "id": "1e3b5be4b5971747f7d1",
+    "procNo": "XFP-11508003",
+    "title": "115年度教學大樓北側水溝加蓋工程",
+    "agency": "高雄市六龜區新發國民小學",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 38,
+    "decision": "排除",
+    "positiveSignals": [],
+    "negativeSignals": [
+      "工程"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309195",
+      "brief": {
+        "type": "決標公告",
+        "title": "115年度教學大樓北側水溝加蓋工程",
+        "companies": {
+          "ids": [
+            "85687277"
+          ],
+          "names": [
+            "高僑土木包工業"
+          ],
+          "id_key": {
+            "85687277": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "高僑土木包工業": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "XFP-11508003",
+      "unit_id": "3.97.8.77",
+      "unit_name": "高雄市六龜區新發國民小學",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.97.8.77",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.97.8.77&job_number=XFP-11508003",
+      "unit_url": "/index/unit/3.97.8.77",
+      "url": "/index/case/3.97.8.77/XFP-11508003/20261016/aaa-71309195"
+    }
+  },
+  {
+    "id": "1c358d716381549b38c9",
+    "procNo": "115-C-05",
+    "title": "金山中繼市場電表汰換工程",
+    "agency": "新北市政府市場處",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 38,
+    "decision": "排除",
+    "positiveSignals": [],
+    "negativeSignals": [
+      "工程"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309148",
+      "brief": {
+        "type": "決標公告",
+        "title": "金山中繼市場電表汰換工程",
+        "companies": {
+          "ids": [
+            "16327381",
+            "22506968"
+          ],
+          "names": [
+            "宇沛企業有限公司",
+            "台普電機股份有限公司"
+          ],
+          "id_key": {
+            "16327381": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ],
+            "22506968": [
+              "投標廠商:投標廠商2:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "宇沛企業有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ],
+            "台普電機股份有限公司": [
+              "投標廠商:投標廠商2:廠商名稱",
+              "決標品項:第1品項:未得標廠商1:未得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "115-C-05",
+      "unit_id": "3.82.17.1",
+      "unit_name": "新北市政府市場處",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.82.17.1",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.82.17.1&job_number=115-C-05",
+      "unit_url": "/index/unit/3.82.17.1",
+      "url": "/index/case/3.82.17.1/115-C-05/20261016/aaa-71309148"
+    }
+  },
+  {
+    "id": "533ce2de437ce2246014",
+    "procNo": "115Y-15",
+    "title": "集塵過濾器等6項教學設備採購",
+    "agency": "桃園市立龍興國民中學",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 38,
+    "decision": "排除",
+    "positiveSignals": [],
+    "negativeSignals": [
+      "設備採購"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71308917",
+      "brief": {
+        "type": "決標公告",
+        "title": "集塵過濾器等6項教學設備採購",
+        "companies": {
+          "ids": [
+            "82939996"
+          ],
+          "names": [
+            "智維創國際股份有限公司"
+          ],
+          "id_key": {
+            "82939996": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "智維創國際股份有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "115Y-15",
+      "unit_id": "3.80.5.69",
+      "unit_name": "桃園市立龍興國民中學",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.80.5.69",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.80.5.69&job_number=115Y-15",
+      "unit_url": "/index/unit/3.80.5.69",
+      "url": "/index/case/3.80.5.69/115Y-15/20261016/aaa-71308917"
+    }
+  },
+  {
+    "id": "943b6d4c18225774b37b",
+    "procNo": "115015",
+    "title": "嘉義市立蘭潭國民中學115年度新建足球運動場工程委託規劃設計監造技術服務",
+    "agency": "嘉義市立蘭潭國民中學",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 38,
+    "decision": "排除",
+    "positiveSignals": [],
+    "negativeSignals": [
+      "工程"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309094",
+      "brief": {
+        "type": "決標公告",
+        "title": "嘉義市立蘭潭國民中學115年度新建足球運動場工程委託規劃設計監造技術服務",
+        "companies": {
+          "ids": [
+            "24231797"
+          ],
+          "names": [
+            "華雄技術顧問有限公司"
+          ],
+          "id_key": {
+            "24231797": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "華雄技術顧問有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "115015",
+      "unit_id": "3.76.60.96.2",
+      "unit_name": "嘉義市立蘭潭國民中學",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.60.96.2",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.60.96.2&job_number=115015",
+      "unit_url": "/index/unit/3.76.60.96.2",
+      "url": "/index/case/3.76.60.96.2/115015/20261016/aaa-71309094"
+    }
+  },
+  {
+    "id": "f265b535d58ef2921583",
+    "procNo": "TA1151014",
+    "title": "115年度頭城鎮清潔隊人員工作制服財物採購案",
+    "agency": "宜蘭縣頭城鎮公所",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 38,
+    "decision": "排除",
+    "positiveSignals": [],
+    "negativeSignals": [
+      "清潔"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "anaa-71309179",
+      "brief": {
+        "type": "無法決標公告",
+        "title": "115年度頭城鎮清潔隊人員工作制服財物採購案",
+        "companies": {
+          "ids": [],
+          "names": [],
+          "id_key": {},
+          "name_key": {}
+        }
+      },
+      "job_number": "TA1151014",
+      "unit_id": "3.76.42.54",
+      "unit_name": "宜蘭縣頭城鎮公所",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.42.54",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.42.54&job_number=TA1151014",
+      "unit_url": "/index/unit/3.76.42.54",
+      "url": "/index/case/3.76.42.54/TA1151014/20261016/anaa-71309179"
+    }
+  },
+  {
+    "id": "e5611bffc4b925943938",
+    "procNo": "115A093",
+    "title": "臺南市南化區菁埔寮段600-2號旁擋土牆改改善工程",
+    "agency": "臺南市南化區公所",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 38,
+    "decision": "排除",
+    "positiveSignals": [],
+    "negativeSignals": [
+      "工程"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "anaa-71308870",
+      "brief": {
+        "type": "無法決標公告",
+        "title": "臺南市南化區菁埔寮段600-2號旁擋土牆改改善工程",
+        "companies": {
+          "ids": [],
+          "names": [],
+          "id_key": {},
+          "name_key": {}
+        }
+      },
+      "job_number": "115A093",
+      "unit_id": "3.95.81",
+      "unit_name": "臺南市南化區公所",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.95.81",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.95.81&job_number=115A093",
+      "unit_url": "/index/unit/3.95.81",
+      "url": "/index/case/3.95.81/115A093/20261016/anaa-71308870"
+    }
+  },
+  {
+    "id": "b0ff8cb1344b5037f399",
+    "procNo": "115A088",
+    "title": "南化區小崙里橋仔內(南化段449等地號)農路改善工程",
+    "agency": "臺南市南化區公所",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 38,
+    "decision": "排除",
+    "positiveSignals": [],
+    "negativeSignals": [
+      "工程"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "anaa-71308903",
+      "brief": {
+        "type": "無法決標公告",
+        "title": "南化區小崙里橋仔內(南化段449等地號)農路改善工程",
+        "companies": {
+          "ids": [],
+          "names": [],
+          "id_key": {},
+          "name_key": {}
+        }
+      },
+      "job_number": "115A088",
+      "unit_id": "3.95.81",
+      "unit_name": "臺南市南化區公所",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.95.81",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.95.81&job_number=115A088",
+      "unit_url": "/index/unit/3.95.81",
+      "url": "/index/case/3.95.81/115A088/20261016/anaa-71308903"
+    }
+  },
+  {
+    "id": "0fc8e97d4e63d3fc4119",
+    "procNo": "115A090",
+    "title": "南化區南化里菁埔寮段17-6地號旁農路及野溪護岸改善工程",
+    "agency": "臺南市南化區公所",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 38,
+    "decision": "排除",
+    "positiveSignals": [],
+    "negativeSignals": [
+      "工程"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "anaa-71308869",
+      "brief": {
+        "type": "無法決標公告",
+        "title": "南化區南化里菁埔寮段17-6地號旁農路及野溪護岸改善工程",
+        "companies": {
+          "ids": [],
+          "names": [],
+          "id_key": {},
+          "name_key": {}
+        }
+      },
+      "job_number": "115A090",
+      "unit_id": "3.95.81",
+      "unit_name": "臺南市南化區公所",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.95.81",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.95.81&job_number=115A090",
+      "unit_url": "/index/unit/3.95.81",
+      "url": "/index/case/3.95.81/115A090/20261016/anaa-71308869"
+    }
+  },
+  {
+    "id": "e97e823f663228bc27de",
+    "procNo": "sbes1150924",
+    "title": "新寶國小舊教室地坪整修工程",
+    "agency": "彰化縣芳苑鄉新寶國民小學",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 38,
+    "decision": "排除",
+    "positiveSignals": [],
+    "negativeSignals": [
+      "工程"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "anaa-71308952",
+      "brief": {
+        "type": "無法決標公告",
+        "title": "新寶國小舊教室地坪整修工程",
+        "companies": {
+          "ids": [],
+          "names": [],
+          "id_key": {},
+          "name_key": {}
+        }
+      },
+      "job_number": "sbes1150924",
+      "unit_id": "3.76.47.98.65",
+      "unit_name": "彰化縣芳苑鄉新寶國民小學",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.47.98.65",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.47.98.65&job_number=sbes1150924",
+      "unit_url": "/index/unit/3.76.47.98.65",
+      "url": "/index/case/3.76.47.98.65/sbes1150924/20261016/anaa-71308952"
+    }
+  },
+  {
+    "id": "4673740ca1bd404b3688",
+    "procNo": "TH115001",
+    "title": "活力樓前庭排水改善工程",
+    "agency": "桃園市大溪區田心國民小學",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 38,
+    "decision": "排除",
+    "positiveSignals": [],
+    "negativeSignals": [
+      "工程"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309060",
+      "brief": {
+        "type": "決標公告",
+        "title": "活力樓前庭排水改善工程",
+        "companies": {
+          "ids": [
+            "13256807"
+          ],
+          "names": [
+            "大力土木包工業"
+          ],
+          "id_key": {
+            "13256807": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "大力土木包工業": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "TH115001",
+      "unit_id": "3.80.8.10",
+      "unit_name": "桃園市大溪區田心國民小學",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.80.8.10",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.80.8.10&job_number=TH115001",
+      "unit_url": "/index/unit/3.80.8.10",
+      "url": "/index/case/3.80.8.10/TH115001/20261016/aaa-71309060"
+    }
+  },
+  {
+    "id": "ac06ded8bea828f0eb38",
+    "procNo": "lsps11502",
+    "title": "嘉義縣龍山國小行政教學樓老舊廁所整修工程",
+    "agency": "嘉義縣竹崎鄉龍山國民小學",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 38,
+    "decision": "排除",
+    "positiveSignals": [],
+    "negativeSignals": [
+      "工程"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309042",
+      "brief": {
+        "type": "決標公告",
+        "title": "嘉義縣龍山國小行政教學樓老舊廁所整修工程",
+        "companies": {
+          "ids": [
+            "85781110"
+          ],
+          "names": [
+            "宜玖企業行"
+          ],
+          "id_key": {
+            "85781110": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "宜玖企業行": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "lsps11502",
+      "unit_id": "3.76.50.98.2",
+      "unit_name": "嘉義縣竹崎鄉龍山國民小學",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.50.98.2",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.50.98.2&job_number=lsps11502",
+      "unit_url": "/index/unit/3.76.50.98.2",
+      "url": "/index/case/3.76.50.98.2/lsps11502/20261016/aaa-71309042"
+    }
+  },
+  {
+    "id": "f69e3ef47bea7e180254",
+    "procNo": "1150929",
+    "title": "115年教師宿舍電熱水器與空調設備更新及增設採購案",
+    "agency": "宜蘭縣立南澳高級中學",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 38,
+    "decision": "排除",
+    "positiveSignals": [],
+    "negativeSignals": [
+      "空調"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "anaa-71309112",
+      "brief": {
+        "type": "無法決標公告",
+        "title": "115年教師宿舍電熱水器與空調設備更新及增設採購案",
+        "companies": {
+          "ids": [],
+          "names": [],
+          "id_key": {},
+          "name_key": {}
+        }
+      },
+      "job_number": "1150929",
+      "unit_id": "3.76.42.95.21",
+      "unit_name": "宜蘭縣立南澳高級中學",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.42.95.21",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.42.95.21&job_number=1150929",
+      "unit_url": "/index/unit/3.76.42.95.21",
+      "url": "/index/case/3.76.42.95.21/1150929/20261016/anaa-71309112"
+    }
+  },
+  {
+    "id": "9c5989721975025fa1c8",
+    "procNo": "11511",
+    "title": "中興國小115年度校門南側圍牆改建工程",
+    "agency": "澎湖縣馬公市中興國民小學",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 38,
+    "decision": "排除",
+    "positiveSignals": [],
+    "negativeSignals": [
+      "工程"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "anaa-71309127",
+      "brief": {
+        "type": "無法決標公告",
+        "title": "中興國小115年度校門南側圍牆改建工程",
+        "companies": {
+          "ids": [],
+          "names": [],
+          "id_key": {},
+          "name_key": {}
+        }
+      },
+      "job_number": "11511",
+      "unit_id": "3.76.56.97.3",
+      "unit_name": "澎湖縣馬公市中興國民小學",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.56.97.3",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.56.97.3&job_number=11511",
+      "unit_url": "/index/unit/3.76.56.97.3",
+      "url": "/index/case/3.76.56.97.3/11511/20261016/anaa-71309127"
+    }
+  },
+  {
+    "id": "7875935ba65beafdb63b",
+    "procNo": "115JH003",
+    "title": "水源村4工區擋土牆加高改善工程",
+    "agency": "花蓮縣秀林鄉公所",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 38,
+    "decision": "排除",
+    "positiveSignals": [],
+    "negativeSignals": [
+      "工程"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71308813",
+      "brief": {
+        "type": "決標公告",
+        "title": "水源村4工區擋土牆加高改善工程",
+        "companies": {
+          "ids": [
+            "21517278",
+            "30188500",
+            "82176126"
+          ],
+          "names": [
+            "合盛土木包工業",
+            "永順土木包工業",
+            "謙杰土木包工業"
+          ],
+          "id_key": {
+            "21517278": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ],
+            "30188500": [
+              "投標廠商:投標廠商2:廠商代碼"
+            ],
+            "82176126": [
+              "投標廠商:投標廠商3:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "合盛土木包工業": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ],
+            "永順土木包工業": [
+              "投標廠商:投標廠商2:廠商名稱",
+              "決標品項:第1品項:未得標廠商1:未得標廠商"
+            ],
+            "謙杰土木包工業": [
+              "投標廠商:投標廠商3:廠商名稱",
+              "決標品項:第1品項:未得標廠商2:未得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "115JH003",
+      "unit_id": "3.76.55.61",
+      "unit_name": "花蓮縣秀林鄉公所",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.76.55.61",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.55.61&job_number=115JH003",
+      "unit_url": "/index/unit/3.76.55.61",
+      "url": "/index/case/3.76.55.61/115JH003/20261016/aaa-71308813"
+    }
+  },
+  {
+    "id": "eb2d31cefc159450afc1",
+    "procNo": "1151002",
+    "title": "幼兒園入口及雨遮改善工程",
+    "agency": "桃園市中壢區中正國民小學",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 38,
+    "decision": "排除",
+    "positiveSignals": [],
+    "negativeSignals": [
+      "工程"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71308998",
+      "brief": {
+        "type": "決標公告",
+        "title": "幼兒園入口及雨遮改善工程",
+        "companies": {
+          "ids": [
+            "24967430"
+          ],
+          "names": [
+            "名田營造工程有限公司"
+          ],
+          "id_key": {
+            "24967430": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "名田營造工程有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "1151002",
+      "unit_id": "3.80.7.36",
+      "unit_name": "桃園市中壢區中正國民小學",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.80.7.36",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.80.7.36&job_number=1151002",
+      "unit_url": "/index/unit/3.80.7.36",
+      "url": "/index/case/3.80.7.36/1151002/20261016/aaa-71308998"
+    }
+  },
+  {
+    "id": "e76f30f148955fe0158a",
+    "procNo": "115TFDA-DF-005",
+    "title": "管制藥品製藥工廠固型製劑場域泡殼包裝機及打錠機遷移工程委託設計監造技術服務",
+    "agency": "衛生福利部食品藥物管理署",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 38,
+    "decision": "排除",
+    "positiveSignals": [],
+    "negativeSignals": [
+      "工程"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "anaa-71309106",
+      "brief": {
+        "type": "無法決標公告",
+        "title": "管制藥品製藥工廠固型製劑場域泡殼包裝機及打錠機遷移工程委託設計監造技術服務",
+        "companies": {
+          "ids": [],
+          "names": [],
+          "id_key": {},
+          "name_key": {}
+        }
+      },
+      "job_number": "115TFDA-DF-005",
+      "unit_id": "A.21.2",
+      "unit_name": "衛生福利部食品藥物管理署",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.21.2",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.21.2&job_number=115TFDA-DF-005",
+      "unit_url": "/index/unit/A.21.2",
+      "url": "/index/case/A.21.2/115TFDA-DF-005/20261016/anaa-71309106"
+    }
+  },
+  {
     "id": "9b1cec779597c1187966",
     "procNo": "1152A1C36",
     "title": "淡江大橋廣播設備",
@@ -2581166,6 +2582098,99 @@
     }
   },
   {
+    "id": "99f3c323d84fd6fd6cc6",
+    "procNo": "K11502-1",
+    "title": "呼吸照護病房地板修繕工程第一次變更設計",
+    "agency": "衛生福利部基隆醫院",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 38,
+    "decision": "排除",
+    "positiveSignals": [],
+    "negativeSignals": [
+      "工程"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "anaa-71308846",
+      "brief": {
+        "type": "無法決標公告",
+        "title": "呼吸照護病房地板修繕工程第一次變更設計",
+        "companies": {
+          "ids": [],
+          "names": [],
+          "id_key": {},
+          "name_key": {}
+        }
+      },
+      "job_number": "K11502-1",
+      "unit_id": "A.21.100.31",
+      "unit_name": "衛生福利部基隆醫院",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.21.100.31",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.21.100.31&job_number=K11502-1",
+      "unit_url": "/index/unit/A.21.100.31",
+      "url": "/index/case/A.21.100.31/K11502-1/20261016/anaa-71308846"
+    }
+  },
+  {
+    "id": "1417b7e0c8b5adf4054b",
+    "procNo": "11504SD002-1",
+    "title": "115年度環境清潔維護工作(後續擴充)",
+    "agency": "高雄市政府工務局公園處",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 38,
+    "decision": "排除",
+    "positiveSignals": [],
+    "negativeSignals": [
+      "清潔"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71309111",
+      "brief": {
+        "type": "決標公告",
+        "title": "115年度環境清潔維護工作(後續擴充)",
+        "companies": {
+          "ids": [
+            "24902964"
+          ],
+          "names": [
+            "宇捷清潔有限公司"
+          ],
+          "id_key": {
+            "24902964": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "宇捷清潔有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "11504SD002-1",
+      "unit_id": "3.97.11.5",
+      "unit_name": "高雄市政府工務局公園處",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.97.11.5",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.97.11.5&job_number=11504SD002-1",
+      "unit_url": "/index/unit/3.97.11.5",
+      "url": "/index/case/3.97.11.5/11504SD002-1/20261016/aaa-71309111"
+    }
+  },
+  {
     "id": "cf7d0f8a11bb73b9bbcc",
     "procNo": "115040",
     "title": "「六堆園區多媒體館1樓門窗改善防水工程暨使用執照及消防變更 」委託規劃設計及監造技術服務案",
@@ -2583809,6 +2584834,62 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.42.51&job_number=115-B058",
       "unit_url": "/index/unit/3.76.42.51",
       "url": "/index/case/3.76.42.51/115-B058/20261015/TIQ-11-71136789"
+    }
+  },
+  {
+    "id": "3965fb83d60de497e101",
+    "procNo": "114d004-1",
+    "title": "新北市三芝區海灣公園景觀空間活化及創生基地空間營造計畫觀光遊憩設施營造改善工程(開口合約)委託設計監造服務第一次契約變更",
+    "agency": "新北市三芝區公所",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "地方創生",
+    "fit": 31,
+    "decision": "排除",
+    "positiveSignals": [
+      "觀光"
+    ],
+    "negativeSignals": [
+      "營造",
+      "工程"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71308876",
+      "brief": {
+        "type": "決標公告",
+        "title": "新北市三芝區海灣公園景觀空間活化及創生基地空間營造計畫觀光遊憩設施營造改善工程(開口合約)委託設計監造服務第一次契約變更",
+        "companies": {
+          "ids": [
+            "27420785"
+          ],
+          "names": [
+            "城拓工程顧問有限公司"
+          ],
+          "id_key": {
+            "27420785": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "城拓工程顧問有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "114d004-1",
+      "unit_id": "3.82.67",
+      "unit_name": "新北市三芝區公所",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.82.67",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.82.67&job_number=114d004-1",
+      "unit_url": "/index/unit/3.82.67",
+      "url": "/index/case/3.82.67/114d004-1/20261016/aaa-71308876"
     }
   },
   {
@@ -2638242,48 +2639323,6 @@
     }
   },
   {
-    "id": "6ca83d99c7581a8d758d",
-    "procNo": "115A170",
-    "title": "奎輝里6鄰部落聯外道路護欄工程",
-    "agency": "桃園市復興區公所",
-    "budget": 0,
-    "posted": "20260924",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 26,
-    "decision": "排除",
-    "positiveSignals": [],
-    "negativeSignals": [
-      "道路",
-      "工程"
-    ],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20260924,
-      "filename": "ttd-71336249",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "奎輝里6鄰部落聯外道路護欄工程",
-        "category": "工程類5139-其他土木工程",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "115A170",
-      "unit_id": "3.80.63",
-      "unit_name": "桃園市復興區公所",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.80.63",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.80.63&job_number=115A170",
-      "unit_url": "/index/unit/3.80.63",
-      "url": "/index/case/3.80.63/115A170/20260924/ttd-71336249"
-    }
-  },
-  {
     "id": "5f7a130459c968592b8d",
     "procNo": "11506CA001-3",
     "title": "114至115年度鳳山區北區道路植栽修剪維護及緊急搶修工程(開口契約)-第3次後續擴充 契約變更",
@@ -2655840,47 +2656879,6 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.47.53&job_number=16002C",
       "unit_url": "/index/unit/3.76.47.53",
       "url": "/index/case/3.76.47.53/16002C/20261006/ttd-71343632"
-    }
-  },
-  {
-    "id": "f425eb776e331ca0a36a",
-    "procNo": "A1E260321",
-    "title": "基隆市光華路15巷邊坡既有構造物損壞修繕及道路排水溝阻隔設施工程",
-    "agency": "臺灣港務股份有限公司基隆港務分公司",
-    "budget": 0,
-    "posted": "20261006",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 26,
-    "decision": "排除",
-    "positiveSignals": [],
-    "negativeSignals": [
-      "道路",
-      "工程"
-    ],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261006,
-      "filename": "anaa-71300270",
-      "brief": {
-        "type": "無法決標公告",
-        "title": "基隆市光華路15巷邊坡既有構造物損壞修繕及道路排水溝阻隔設施工程",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "A1E260321",
-      "unit_id": "3.15.86.1",
-      "unit_name": "臺灣港務股份有限公司基隆港務分公司",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.15.86.1",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.15.86.1&job_number=A1E260321",
-      "unit_url": "/index/unit/3.15.86.1",
-      "url": "/index/case/3.15.86.1/A1E260321/20261006/anaa-71300270"
     }
   },
   {
@@ -2679080,6 +2680078,101 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.82.71&job_number=1141216E-7",
       "unit_url": "/index/unit/3.82.71",
       "url": "/index/case/3.82.71/1141216E-7/20261015/aaa-71307510"
+    }
+  },
+  {
+    "id": "6ca83d99c7581a8d758d",
+    "procNo": "115A170",
+    "title": "奎輝里6鄰部落聯外道路護欄工程",
+    "agency": "桃園市復興區公所",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 26,
+    "decision": "排除",
+    "positiveSignals": [],
+    "negativeSignals": [
+      "道路",
+      "工程"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "aaa-71308796",
+      "brief": {
+        "type": "決標公告",
+        "title": "奎輝里6鄰部落聯外道路護欄工程",
+        "companies": {
+          "ids": [
+            "10548470"
+          ],
+          "names": [
+            "佳鑫土木包工業"
+          ],
+          "id_key": {
+            "10548470": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "佳鑫土木包工業": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "115A170",
+      "unit_id": "3.80.63",
+      "unit_name": "桃園市復興區公所",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.80.63",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.80.63&job_number=115A170",
+      "unit_url": "/index/unit/3.80.63",
+      "url": "/index/case/3.80.63/115A170/20261016/aaa-71308796"
+    }
+  },
+  {
+    "id": "f425eb776e331ca0a36a",
+    "procNo": "A1E260321",
+    "title": "基隆市光華路15巷邊坡既有構造物損壞修繕及道路排水溝阻隔設施工程",
+    "agency": "臺灣港務股份有限公司基隆港務分公司",
+    "budget": 0,
+    "posted": "20261016",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 26,
+    "decision": "排除",
+    "positiveSignals": [],
+    "negativeSignals": [
+      "道路",
+      "工程"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261016,
+      "filename": "anaa-71309097",
+      "brief": {
+        "type": "無法決標公告",
+        "title": "基隆市光華路15巷邊坡既有構造物損壞修繕及道路排水溝阻隔設施工程",
+        "companies": {
+          "ids": [],
+          "names": [],
+          "id_key": {},
+          "name_key": {}
+        }
+      },
+      "job_number": "A1E260321",
+      "unit_id": "3.15.86.1",
+      "unit_name": "臺灣港務股份有限公司基隆港務分公司",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.15.86.1",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.15.86.1&job_number=A1E260321",
+      "unit_url": "/index/unit/3.15.86.1",
+      "url": "/index/case/3.15.86.1/A1E260321/20261016/anaa-71309097"
     }
   },
   {
