@@ -1,12 +1,12 @@
 {
-  "runAt": "2026-10-21T05:33:53.768694+00:00",
+  "runAt": "2026-10-22T05:37:29.203050+00:00",
   "days": 7,
-  "fetchedUnique": 10774,
-  "totalStored": 58326,
+  "fetchedUnique": 10745,
+  "totalStored": 59467,
   "errors": [
     {
       "date": "20261017",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "HTTP Error 500: Internal Server Error"
     }
   ],
   "source": "https://pcc-api.openfun.app/",
