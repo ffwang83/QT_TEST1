@@ -1303194,44 +1303194,6 @@
     }
   },
   {
-    "id": "da862e6b69e9b1b8c022",
-    "procNo": "R115294V",
-    "title": "AMA2027年電子期刊",
-    "agency": "臺北榮民總醫院",
-    "budget": 0,
-    "posted": "20261006",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261006,
-      "filename": "anaa-71299301",
-      "brief": {
-        "type": "無法決標公告",
-        "title": "AMA2027年電子期刊",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "R115294V",
-      "unit_id": "3.32.80",
-      "unit_name": "臺北榮民總醫院",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.32.80",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.32.80&job_number=R115294V",
-      "unit_url": "/index/unit/3.32.80",
-      "url": "/index/case/3.32.80/R115294V/20261006/anaa-71299301"
-    }
-  },
-  {
     "id": "810c17b1e20edaca0a64",
     "procNo": "FT15010P021",
     "title": "充氣式除汙帳篷採購案",
@@ -1536117,44 +1536079,6 @@
     }
   },
   {
-    "id": "3195e0f31ac7b6a5228a",
-    "procNo": "R115307V",
-    "title": "Cambridge Journals Online Medical Package醫學主題電子期刊",
-    "agency": "臺北榮民總醫院",
-    "budget": 0,
-    "posted": "20261013",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261013,
-      "filename": "anaa-71305160",
-      "brief": {
-        "type": "無法決標公告",
-        "title": "Cambridge Journals Online Medical Package醫學主題電子期刊",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "R115307V",
-      "unit_id": "3.32.80",
-      "unit_name": "臺北榮民總醫院",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.32.80",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.32.80&job_number=R115307V",
-      "unit_url": "/index/unit/3.32.80",
-      "url": "/index/case/3.32.80/R115307V/20261013/anaa-71305160"
-    }
-  },
-  {
     "id": "de85814db80e0141367a",
     "procNo": "115006",
     "title": "115年度Microsoft Office 2024家用及中小企業中文版採購案",
@@ -1583981,45 +1583905,6 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=45002806&job_number=1151006-20400-02",
       "unit_url": "/index/unit/45002806",
       "url": "/index/case/45002806/1151006-20400-02/20261014/ttd-71351356"
-    }
-  },
-  {
-    "id": "51668b1c4fe0b6d1e626",
-    "procNo": "115010",
-    "title": "115學年度六年級學生畢業旅行",
-    "agency": "國立東華大學附設實驗國民小學",
-    "budget": 0,
-    "posted": "20261014",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 50,
-    "decision": "研究",
-    "positiveSignals": [],
-    "negativeSignals": [],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261014,
-      "filename": "ttd-71352344",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "115學年度六年級學生畢業旅行",
-        "category": "勞務類74-支援及輔助運輸服務",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "115010",
-      "unit_id": "3.9.38.1",
-      "unit_name": "國立東華大學附設實驗國民小學",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.9.38.1",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.9.38.1&job_number=115010",
-      "unit_url": "/index/unit/3.9.38.1",
-      "url": "/index/case/3.9.38.1/115010/20261014/ttd-71352344"
     }
   },
   {
@@ -1913339,6 +1913224,168 @@
     }
   },
   {
+    "id": "da862e6b69e9b1b8c022",
+    "procNo": "R115294V",
+    "title": "AMA2027年電子期刊",
+    "agency": "臺北榮民總醫院",
+    "budget": 0,
+    "posted": "20261023",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261023,
+      "filename": "aaa-71314118",
+      "brief": {
+        "type": "決標公告",
+        "title": "AMA2027年電子期刊",
+        "companies": {
+          "ids": [
+            "24309020"
+          ],
+          "names": [
+            "飛資得醫學資訊股份有限公司"
+          ],
+          "id_key": {
+            "24309020": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "飛資得醫學資訊股份有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "R115294V",
+      "unit_id": "3.32.80",
+      "unit_name": "臺北榮民總醫院",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.32.80",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.32.80&job_number=R115294V",
+      "unit_url": "/index/unit/3.32.80",
+      "url": "/index/case/3.32.80/R115294V/20261023/aaa-71314118"
+    }
+  },
+  {
+    "id": "3195e0f31ac7b6a5228a",
+    "procNo": "R115307V",
+    "title": "Cambridge Journals Online Medical Package醫學主題電子期刊",
+    "agency": "臺北榮民總醫院",
+    "budget": 0,
+    "posted": "20261023",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261023,
+      "filename": "aaa-71314120",
+      "brief": {
+        "type": "決標公告",
+        "title": "Cambridge Journals Online Medical Package醫學主題電子期刊",
+        "companies": {
+          "ids": [
+            "24345623"
+          ],
+          "names": [
+            "智泉國際事業有限公司"
+          ],
+          "id_key": {
+            "24345623": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "智泉國際事業有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "R115307V",
+      "unit_id": "3.32.80",
+      "unit_name": "臺北榮民總醫院",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.32.80",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.32.80&job_number=R115307V",
+      "unit_url": "/index/unit/3.32.80",
+      "url": "/index/case/3.32.80/R115307V/20261023/aaa-71314120"
+    }
+  },
+  {
+    "id": "51668b1c4fe0b6d1e626",
+    "procNo": "115010",
+    "title": "115學年度六年級學生畢業旅行",
+    "agency": "國立東華大學附設實驗國民小學",
+    "budget": 0,
+    "posted": "20261023",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261023,
+      "filename": "aaa-71314111",
+      "brief": {
+        "type": "決標公告",
+        "title": "115學年度六年級學生畢業旅行",
+        "companies": {
+          "ids": [
+            "42574892",
+            "89966672"
+          ],
+          "names": [
+            "喬恩旅行社有限公司",
+            "新瑞旅行社股份有限公司"
+          ],
+          "id_key": {
+            "42574892": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ],
+            "89966672": [
+              "投標廠商:投標廠商2:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "喬恩旅行社有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:未得標廠商1:未得標廠商"
+            ],
+            "新瑞旅行社股份有限公司": [
+              "投標廠商:投標廠商2:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "115010",
+      "unit_id": "3.9.38.1",
+      "unit_name": "國立東華大學附設實驗國民小學",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.9.38.1",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.9.38.1&job_number=115010",
+      "unit_url": "/index/unit/3.9.38.1",
+      "url": "/index/case/3.9.38.1/115010/20261023/aaa-71314111"
+    }
+  },
+  {
     "id": "5c05069d0e1f522224ce",
     "procNo": "115C03",
     "title": "116-118年度後天免疫不全病毒二合一檢驗試紙及篩檢用毛細管採購案",
@@ -1967754,6 +1967801,57 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.9.20&job_number=1151015",
       "unit_url": "/index/unit/3.9.20",
       "url": "/index/case/3.9.20/1151015/20261023/ttd-71361442"
+    }
+  },
+  {
+    "id": "abe0273b3feec0990877",
+    "procNo": "T1150812",
+    "title": "真空採血管",
+    "agency": "衛生福利部新營醫院",
+    "budget": 0,
+    "posted": "20261023",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 50,
+    "decision": "研究",
+    "positiveSignals": [],
+    "negativeSignals": [],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261023,
+      "filename": "aaa-71314121",
+      "brief": {
+        "type": "決標公告",
+        "title": "真空採血管",
+        "companies": {
+          "ids": [
+            "53409673"
+          ],
+          "names": [
+            "醫凡企業有限公司"
+          ],
+          "id_key": {
+            "53409673": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "醫凡企業有限公司": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "T1150812",
+      "unit_id": "A.21.100.41",
+      "unit_name": "衛生福利部新營醫院",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=A.21.100.41",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=A.21.100.41&job_number=T1150812",
+      "unit_url": "/index/unit/A.21.100.41",
+      "url": "/index/case/A.21.100.41/T1150812/20261023/aaa-71314121"
     }
   },
   {
@@ -2662450,47 +2662548,6 @@
     }
   },
   {
-    "id": "f29290743d6063d9ff2b",
-    "procNo": "1151012",
-    "title": "115年度金門縣金城鎮公所清潔人員健康檢查(單價決標)",
-    "agency": "金門縣金城鎮公所",
-    "budget": 0,
-    "posted": "20261015",
-    "deadline": "",
-    "type": "政策溝通",
-    "fit": 38,
-    "decision": "排除",
-    "positiveSignals": [],
-    "negativeSignals": [
-      "清潔"
-    ],
-    "source": "PCC-derived OpenFun API",
-    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
-    "raw": {
-      "date": 20261015,
-      "filename": "ttd-71352237",
-      "brief": {
-        "type": "公開取得報價單或企劃書公告",
-        "title": "115年度金門縣金城鎮公所清潔人員健康檢查(單價決標)",
-        "category": "勞務類931-人類衛生服務",
-        "companies": {
-          "ids": [],
-          "names": [],
-          "id_key": {},
-          "name_key": {}
-        }
-      },
-      "job_number": "1151012",
-      "unit_id": "3.71.1.1",
-      "unit_name": "金門縣金城鎮公所",
-      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.71.1.1",
-      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.71.1.1&job_number=1151012",
-      "unit_url": "/index/unit/3.71.1.1",
-      "url": "/index/case/3.71.1.1/1151012/20261015/ttd-71352237"
-    }
-  },
-  {
     "id": "0776788651cd9e03faa9",
     "procNo": "HLC115-E01",
     "title": "行政大樓運動廣場更新工程",
@@ -2816634,6 +2816691,46 @@
     }
   },
   {
+    "id": "f29290743d6063d9ff2b",
+    "procNo": "1151012",
+    "title": "115年度金門縣金城鎮公所清潔人員健康檢查(單價決標)",
+    "agency": "金門縣金城鎮公所",
+    "budget": 0,
+    "posted": "20261023",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 38,
+    "decision": "排除",
+    "positiveSignals": [],
+    "negativeSignals": [
+      "清潔"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261023,
+      "filename": "anaa-71314116",
+      "brief": {
+        "type": "無法決標公告",
+        "title": "115年度金門縣金城鎮公所清潔人員健康檢查(單價決標)",
+        "companies": {
+          "ids": [],
+          "names": [],
+          "id_key": {},
+          "name_key": {}
+        }
+      },
+      "job_number": "1151012",
+      "unit_id": "3.71.1.1",
+      "unit_name": "金門縣金城鎮公所",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.71.1.1",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.71.1.1&job_number=1151012",
+      "unit_url": "/index/unit/3.71.1.1",
+      "url": "/index/case/3.71.1.1/1151012/20261023/anaa-71314116"
+    }
+  },
+  {
     "id": "c4b226b23d6e5c275b79",
     "procNo": "115FG12002230702120",
     "title": "南美崙101等2棟大樓浴室整修工程",
@@ -2847012,6 +2847109,69 @@
       "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.76.48.63&job_number=1150510250",
       "unit_url": "/index/unit/3.76.48.63",
       "url": "/index/case/3.76.48.63/1150510250/20261023/aaa-71314070"
+    }
+  },
+  {
+    "id": "ff0246beef5c95232622",
+    "procNo": "HP-115C01-1",
+    "title": "後埔國小重慶樓、行政大樓、實踐樓老舊廁所整修工程後續擴充監造服務採購",
+    "agency": "新北市板橋區後埔國民小學",
+    "budget": 0,
+    "posted": "20261023",
+    "deadline": "",
+    "type": "政策溝通",
+    "fit": 38,
+    "decision": "排除",
+    "positiveSignals": [],
+    "negativeSignals": [
+      "工程"
+    ],
+    "source": "PCC-derived OpenFun API",
+    "officialUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "sourceUrl": "https://web.pcc.gov.tw/pis/main/pis/client/index.do",
+    "raw": {
+      "date": 20261023,
+      "filename": "aaa-71314127",
+      "brief": {
+        "type": "決標公告",
+        "title": "後埔國小重慶樓、行政大樓、實踐樓老舊廁所整修工程後續擴充監造服務採購",
+        "companies": {
+          "ids": [
+            "78571976",
+            "08578259"
+          ],
+          "names": [
+            "植砌建築師事務所",
+            "葉德發建築師事務所"
+          ],
+          "id_key": {
+            "08578259": [
+              "投標廠商:投標廠商2:廠商代碼"
+            ],
+            "78571976": [
+              "投標廠商:投標廠商1:廠商代碼"
+            ]
+          },
+          "name_key": {
+            "植砌建築師事務所": [
+              "投標廠商:投標廠商1:廠商名稱",
+              "決標品項:第1品項:得標廠商1:得標廠商"
+            ],
+            "葉德發建築師事務所": [
+              "投標廠商:投標廠商2:廠商名稱",
+              "決標品項:第2品項:得標廠商1:得標廠商",
+              "決標品項:第3品項:得標廠商1:得標廠商"
+            ]
+          }
+        }
+      },
+      "job_number": "HP-115C01-1",
+      "unit_id": "3.82.7.3",
+      "unit_name": "新北市板橋區後埔國民小學",
+      "unit_api_url": "http://pcc-api.openfun.app/api/listbyunit?unit_id=3.82.7.3",
+      "tender_api_url": "http://pcc-api.openfun.app/api/tender?unit_id=3.82.7.3&job_number=HP-115C01-1",
+      "unit_url": "/index/unit/3.82.7.3",
+      "url": "/index/case/3.82.7.3/HP-115C01-1/20261023/aaa-71314127"
     }
   },
   {
