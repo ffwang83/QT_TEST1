@@ -1,9 +1,13 @@
 {
-  "runAt": "2026-10-24T05:13:56.119135+00:00",
+  "runAt": "2026-10-25T05:31:51.230572+00:00",
   "days": 7,
-  "fetchedUnique": 10594,
+  "fetchedUnique": 10593,
   "totalStored": 60734,
   "errors": [
+    {
+      "date": "20261025",
+      "error": "HTTP Error 500: Internal Server Error"
+    },
     {
       "date": "20261024",
       "error": "HTTP Error 500: Internal Server Error"
